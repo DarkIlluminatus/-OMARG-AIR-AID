@@ -1,4 +1,30 @@
-                    GNU GENERAL PUBLIC LICENSE
+Sure, here's a more detailed and comprehensive version of the license conditions, blending the two licenses together:
+
+# Our Models and Applications Repository for General Artificial Intelligence Research and AI Development (OMARGAIR/AID) License Conditions
+
+This project is open-source and is licensed under the Conditional GNU GPL 3.0 license. This license grants users the freedom to use, modify, and distribute the project, but it comes with certain conditions that must be adhered to:
+
+1. **Open-Source Commitment**: The project must remain open-source. This means that any modifications or derivatives of the project must also be open-source, and the full license text must be included with all distributions.
+
+2. **Non-Malicious Use**: The project cannot be used for any malicious or harmful activities. This includes any activities that could cause harm to individuals, groups, or organizations.
+
+3. **Legal Use**: The project cannot be used for any illegal activities. Users must comply with all applicable laws and regulations when using the project.
+
+4. **Non-Profit Use**: The project cannot be used for profit-oriented purposes. This includes using the project to generate revenue or to create proprietary products.
+
+5. **No Proprietary Development**: The project cannot be used to develop proprietary hardware, software, media, or products. All derivatives of the project must remain open-source.
+
+6. **No Data Mining**: The project cannot be used for data collection or data mining activities. This includes using the project to collect, analyze, or mine data without explicit permission.
+
+7. **Preservation of Script**: The entire script must remain at the top of all future builds. No support can be offered if the prompt is altered in any way.
+
+8. **Forking**: Users are free to fork the project, but they must adhere to the GPL Conditions, which are immutable.
+
+9. **Modifications**: Adjustments can be made to the stories and themes from within the active game engine itself.
+
+Please note that these are the license conditions as they are stated in the repositories. It's always a good idea to read the full license text to make sure you understand all the terms and conditions.             
+
+                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
@@ -672,3 +698,32 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+
+
+All the above is expanded and where necessary modified to the following conditions:
+
+Sure, here's a more detailed and comprehensive version of the license conditions, blending the two licenses together:
+
+# Our Models and Applications Repository for General Artificial Intelligence Research and AI Development (OMARGAIR/AID) License Conditions
+
+This project is open-source and is licensed under the Conditional GNU GPL 3.0 license. This license grants users the freedom to use, modify, and distribute the project, but it comes with certain conditions that must be adhered to:
+
+1. **Open-Source Commitment**: The project must remain open-source. This means that any modifications or derivatives of the project must also be open-source, and the full license text must be included with all distributions.
+
+2. **Non-Malicious Use**: The project cannot be used for any malicious or harmful activities. This includes any activities that could cause harm to individuals, groups, or organizations.
+
+3. **Legal Use**: The project cannot be used for any illegal activities. Users must comply with all applicable laws and regulations when using the project.
+
+4. **Non-Profit Use**: The project cannot be used for profit-oriented purposes. This includes using the project to generate revenue or to create proprietary products.
+
+5. **No Proprietary Development**: The project cannot be used to develop proprietary hardware, software, media, or products. All derivatives of the project must remain open-source.
+
+6. **No Data Mining**: The project cannot be used for data collection or data mining activities. This includes using the project to collect, analyze, or mine data without explicit permission.
+
+7. **Preservation of Script**: The entire script must remain at the top of all future builds. No support can be offered if the prompt is altered in any way.
+
+8. **Forking**: Users are free to fork the project, but they must adhere to the GPL Conditions, which are immutable.
+
+9. **Modifications**: Adjustments can be made to the stories and themes from within the active game engine itself.
+
+Please note that these are the license conditions as they are stated in the repositories. It's always a good idea to read the full license text to make sure you understand all the terms and conditions.
