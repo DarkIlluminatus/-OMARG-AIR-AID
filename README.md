@@ -60,3 +60,8 @@ We welcome contributions to OMARGAIR/AID! If you have a model prompt you'd like 
 For any questions or concerns, please [create a new issue](link-to-create-new-issue) and we'll get back to you as soon as possible.
 
 Happy exploring!
+
+## Additional Resources I've found that will be later organized better here:
+https://pugin.ai/ - A chatgpt plugin list that features more than just the built-in plugins.
+./models/READme.md - contains a plugin list of the verified plugins accessible directly through ChatGPT Plugins model.
+
