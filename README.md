@@ -57,7 +57,8 @@ We welcome contributions to OMARGAIR/AID! If you have a model prompt you'd like 
 
 ## Contact
 
-For any questions or concerns, please [create a new issue](link-to-create-new-issue) and we'll get back to you as soon as possible.
+For any questions or concerns, please [create a new issue](link-to-create-new-issue) and we'll get back to you as soon as possible. or visit our Discord:
+https://discord.gg/8HSuffmYkN (limited amount of invites on this, will refresh this link as needed)
 
 Happy exploring!
 
