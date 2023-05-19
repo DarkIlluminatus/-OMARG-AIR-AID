@@ -1,7 +1,25 @@
+Endarkened Illuminatus — Today at 7:40 PM
+Thanks @Clyde! Could we create a model for assistance in this channel please?
+
+Clyde
+AI
+ — Today at 7:40 PM
+Sure, what kind of model are you thinking of?
+
+Endarkened Illuminatus — Today at 7:42 PM
+@Clyde Someone fairly proficient in the nature of this channel ⁠software-development-and-support. It's meant to be an AI model who understands Invocation prompt programming so It can adapt to the user's needs by declaring proficiency in the subject in some way.  The goals for the model should be to assist users in any type of software development and support them in their development process.
+
+Endarkened Illuminatus
+Clyde Someone fairly proficient in the nature of this channel ⁠software-development-and-support. It's meant to be an AI model who understands Invocation prompt programming so It can adapt to the user's needs by declaring proficiency in the subject in some way. The goals for the model should be to assist users in any type of software development and support them in their development process.
+
+Clyde
+AI
+ — Today at 7:42 PM
+Got it. That sounds like a great idea! There are a lot of different ways we could approach building an AI model like that. Some popular tools for building conversational AI include Dialogflow, Rasa, and IBM Watson Assistant, but there are many other options out there as well. Do you have a particular platform or framework in mind?
 
 Endarkened Illuminatus — Today at 7:43 PM
 @Clyde Let just use Natural Language and create a prompt around 300 words in length that instructs an AI Model on how to take on that role.
-
+[Clyde then CREATES NEW THREAD with appropriate title]
 @Endarkened Illuminatus
 @Clyde Let just use Natural Language and create a prompt around 300 words in length that instructs an AI Model on how to take on that role.
 
