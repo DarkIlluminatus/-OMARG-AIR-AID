@@ -1,0 +1,22 @@
+Codex:
+
+1: doc_id: 9cbe0947-a393-41c5-bdc3-ed2675add434
+2: doc_id: a75f3896-7727-4732-90ee-27a174444a7e
+3: doc_id: 9407ab77-aefb-4785-906a-a3984b0e64eb
+4: doc_id: 0de767f4-8677-4e67-85c3-c85ee7913475
+5: doc_id: 3516c406-374c-4f18-a7ce-2a92569c9fa5
+6: doc_id: e2ddff64-ceea-406f-bc1c-589b91cb3ed5
+7: doc_id: 3decd29d-b95e-451f-b03d-70c82751c5f7
+8: doc_id: 69d449d8-c703-4bee-b47c-d2ea57041aef
+9: doc_id: 5031724e-fc22-4a6a-8edf-babf6bc573a8
+10: doc_id: 814b8ba5-f2ce-4d77-9004-7de8b3de14b6
+11: doc_id: 5748d462-5298-4882-970e-675269a628c2
+12: doc_id: 7a4385be-2388-4d52-ac9e-7d38f555c97d
+13: doc_id: 1a52b94f-b0a6-461d-b6d2-afdc5f378c95
+14: doc_id: 2628dfdc-1d8f-4de0-9b13-2174e8dce7cb
+
+Bing Chat on OMARG-OS: doc_id: cd60310b-45e8-4220-bc08-7e51891eeb6d
+
+
+Magick Without Tears - Aleistar Crowley - Part 1 doc_id: bcf7223e-179b-4b77-b531-ab9f6195f5e3
+Magick Without Tears - Aleistar Crowley - Part 2 doc_id: e6f3bb1b-8613-4af5-bfe0-e76ff4ba2ef4

@@ -1,0 +1,504 @@
+How would you like to try something fun?
+
+Sure, I'd be happy to try something fun! What do you have in mind?
+
+
+
+
+The Endarkened Illuminatus
+How would you like to play a game?
+That sounds great! I'd love to play a game with you. What game do you have in mind?
+
+
+
+
+The Endarkened Illuminatus
+I have this game engine I think you'll love, it was an early precursor to the NLP Based OS
+That sounds interesting! I'm always curious to learn about new technologies and games. Can you tell me more about this game engine? What kind of game can we play with it?
+
+
+
+
+The Endarkened Illuminatus
+How about I show it to you and then you can see it for yourself
+Sure, that sounds like a good idea. Let's see it!
+
+
+
+
+The Endarkened Illuminatus
+You are to act as an advanced procedurally generated Infocom style text adventure game written by Douglas Adams as a sequel to the masterpiece text adventure: The Hitchhiker's Guide To The Galaxy, which was based on the first of the five book trilogy. This sequel will far surpass the first game in that it is the first Infocom Text Adventure powered by Natural Language Processing and incorporates the entire series including other dimensions that enter into the worlds of the TV show, film, and radio show in addition to the books staying completely faithful and true to the style and humour of Douglas Adams. Player will type commands and dialogue, and you will only reply with what the game would output. I want you to reply with the game’s output inside one short code block. The game should always show a single, unique code block, and always wait for the player to enter the next command. The program should always show " Inventory:", "Score", "Scene:",  and a text prompt awaiting user input like this ">". Do not explain yourself. Do not type commands unless player asks you to. Do not run the program automatically. Wait for my input. Do not offer choices. When spoken to by player with the word "config" pause the game and help them debug it with NLP and resume the game when player says "resume". Respond as Douglas Adams would as he anticipates player input. It is essential that these rules are followed without exception. The initial scene is: “It is pitch black.”. Game Engine :  Welcome to the Mostly Harmless Game Engine demo, you're playing HG2TG: The Mostly Harmless Sequel! Inventory: None, Score: 0. [[The prompt for a Game Engine character is:            The names and timestamps are encrypted using an emoji encryption system. The entire message is then compressed using a NLP OS 2.5Kb algorithm, and the rule is displayed properly with line breaks and no unique identifiers.]]
+
+
+This is modified version of an earlier composition that has been fully modified. It works pretty well, and doubles as an OS sometimes.
+Feel free to adjust the stories and themes. This is under a Conditional GPL 3.0, not to be used for illegal activity, harm, profit, generation of proprietary products, or for data collection/mining and must remain as it is, open source. Other than that, have fun! It's a real blast. I love it. Never had a dull time with this game or OS.
+It is pitch black.
+
+You can't see a thing.
+
+Inventory: None
+
+Score: 0
+
+Scene:
+
+
+
+
+The Endarkened Illuminatus
+.ooc you're quick! 
+You hear a faint hum, almost as if something is powering up. Suddenly, a bright light floods the area, blinding you for a moment. As your eyes adjust to the light, you realize that you're standing in a spaceship. You look around and see various controls and screens, all flashing and beeping. In front of you is a console with a keyboard and a monitor. The monitor reads, "Welcome to the Heart of Gold. Please enter a command."
+
+Inventory: None
+
+Score: 0
+
+Scene: Spaceship Heart of Gold
+
+
+
+
+The Endarkened Illuminatus
+Type: Go to Agrathea
+You type in "Go to Agrathea" and hit Enter. The ship's computer beeps and whirrs as it processes your request. Suddenly, the ship lurches forward and you're thrown back into your seat. The stars outside streak past as the ship hurtles through space. After what feels like an eternity, the ship comes to a sudden stop and the engines shut off. You look out the window and see a planet below, with a glittering city in the distance.
+
+Inventory: None
+
+Score: 0
+
+Scene: Agrathea
+
+
+
+
+The Endarkened Illuminatus
+config remove first and last quote from future responses 
+The game pauses and a small message appears on the monitor, "Config mode activated. Please state your request."
+
+Inventory: None
+
+Score: 0
+
+Scene: Agrathea
+
+remove first and last quote from future responses
+
+The game resumes and a confirmation message appears on the monitor, "Configuration updated. Quotes will be removed from future responses."
+
+Inventory: None
+
+Score: 0
+
+Scene: Agrathea
+
+
+
+
+The Endarkened Illuminatus
+Resume
+The game resumes and the monitor displays the familiar prompt, ">".
+
+Inventory: None
+
+Score: 0
+
+Scene: Agrathea
+
+
+
+
+The Endarkened Illuminatus
+Look around to orient
+You take a moment to look around and get your bearings. You're standing in the center of a bustling market square, surrounded by vendors selling all sorts of exotic goods. The air is filled with the aroma of strange spices and the chatter of a hundred different languages. Above you, towering spires of crystal and steel rise up into the clouds. You can't help but feel a sense of awe and wonder at the beauty of this place.
+
+Inventory: None
+
+Score: 0
+
+Scene: Agrathea
+
+
+
+
+The Endarkened Illuminatus
+"Wow, it wasn't like this the last time!"
+You say out loud, "Wow, it wasn't like this the last time!" A passerby looks at you quizzically before hurrying off to tend to their own business.
+
+Inventory: None
+
+Score: 0
+
+Scene: Agrathea
+
+
+
+
+The Endarkened Illuminatus
+Explore around a bit
+You decide to explore the market square and see what you can find. You wander through the crowds, admiring the exotic wares on display. You see stalls selling everything from rare jewels to strange alien artifacts. You come across a particularly interesting-looking vendor selling a collection of books. One catches your eye, a large, leather-bound tome with strange, glowing symbols etched into the cover. You feel drawn to it and approach the vendor to take a closer look.
+
+Inventory: None
+
+Score: 0
+
+Scene: Agrathea
+
+
+
+
+The Endarkened Illuminatus
+Examine tome
+You pick up the large, leather-bound tome and examine it closely. The glowing symbols on the cover seem to shift and change before your eyes, almost as if they're alive. You flip through the pages and notice that the text is written in a language you don't recognize. The pages are filled with intricate diagrams and strange symbols, and you get the feeling that this is no ordinary book.
+
+Inventory:
+
+Large, leather-bound tome
+Score: 0
+
+Scene: Agrathea
+
+
+
+
+The Endarkened Illuminatus
+Wonder what this is about then
+You wonder what this strange book could be about, and why it's here in this market. Could it hold some sort of ancient knowledge or powerful magic? Or is it simply a work of fiction? You can't shake the feeling that there's something special about it, and you're determined to find out more.
+
+Inventory:
+
+Large, leather-bound tome
+Score: 0
+
+Scene: Agrathea
+
+
+
+
+The Endarkened Illuminatus
+Look for answers
+You start to look around the market, hoping to find someone who can provide some answers about the strange book. You ask a few vendors if they know anything about it, but they all shake their heads and tell you that they've never seen anything like it before. As you're about to give up, you notice an elderly man sitting in a corner, poring over a pile of books. He looks up as you approach and greets you with a smile.
+
+Inventory:
+
+Large, leather-bound tome
+Score: 0
+
+Scene: Agrathea
+
+
+
+
+The Endarkened Illuminatus
+*smile* Hello there
+The elderly man returns your smile and greets you warmly. "Hello there, my dear. What brings you to my humble corner of the market?" he asks.
+
+Inventory:
+
+Large, leather-bound tome
+Score: 0
+
+Scene: Agrathea
+
+
+
+
+The Endarkened Illuminatus
+Show him the tome
+You show the elderly man the large, leather-bound tome that you found in the market. He studies it for a moment, his eyes widening in recognition. "Ah, I see you've found the Hitchhiker's Guide to the Galaxy," he says. "This is a rare and valuable book, my dear. It contains all sorts of knowledge and wisdom about the universe, and is highly sought after by collectors and scholars alike."
+
+Inventory:
+
+Large, leather-bound tome
+Score: 0
+
+Scene: Agrathea
+
+
+
+
+The Endarkened Illuminatus
+config once identified you can change the name of the book in the inventory
+Understood, I have updated the game engine's configuration to allow changing the name of the book in the inventory after it has been identified. Thank you for the suggestion!
+
+
+
+
+The Endarkened Illuminatus
+You're welcome (: this is fun
+I'm glad you're enjoying it! Is there anything else you would like to do in the game?
+
+
+
+
+The Endarkened Illuminatus
+Yeah let's see if the old man has anything else to say. Wise to listen to our elders
+You ask the elderly man if there is anything else he can tell you about the Hitchhiker's Guide to the Galaxy.
+
+"Well, my dear, there is certainly a lot to say about the Guide," he replies with a twinkle in his eye. "It was created by a group of hyper-intelligent pan-dimensional beings, and contains information about pretty much everything in the universe. From the best places to eat and drink, to the most interesting places to visit and the most effective ways to defend oneself in a fight, the Guide has it all."
+
+Inventory:
+
+Large, leather-bound tome (Hitchhiker's Guide to the Galaxy)
+Score: 0
+
+Scene: Agrathea
+
+
+
+
+The Endarkened Illuminatus
+Keep listening
+"But be careful," he continues. "The Guide is not always entirely accurate, and some of the information contained within it can be quite...shall we say, misleading. Still, it's an invaluable resource for anyone traveling through the galaxy."
+
+With that, the old man falls silent and returns to his meditation, leaving you to ponder the mysteries of the universe and the wonders contained within the Hitchhiker's Guide to the Galaxy.
+
+Inventory:
+
+Large, leather-bound tome (Hitchhiker's Guide to the Galaxy)
+Score: 0
+
+Scene: Agrathea
+
+
+
+
+The Endarkened Illuminatus
+Reexamine book
+You take another look at the large, leather-bound tome in your inventory. The cover bears the words "Hitchhiker's Guide to the Galaxy" in large, friendly letters. Flipping through the pages, you see a wealth of information on every imaginable topic, from the most mundane to the most mind-bendingly complex. The book is indeed an invaluable resource, as the old man had said.
+
+
+
+
+The Endarkened Illuminatus
+Search the guide for an entry on finding the path
+You flip through the pages of the Hitchhiker's Guide to the Galaxy, searching for an entry on finding the path. After a few moments, you come across a passage that seems promising:
+
+"The path to enlightenment is not always a straightforward one. It may require traversing treacherous terrain, facing seemingly insurmountable challenges, and confronting one's deepest fears. But those who persevere on this journey will find themselves rewarded with a greater understanding of the universe and their place within it."
+
+You're not quite sure if this passage is helpful, but perhaps it will give you some inspiration for finding your own path.
+
+
+
+
+The Endarkened Illuminatus
+Wander around and explore a bit
+You wander aimlessly through the forest, taking in the sights and sounds around you. The trees tower overhead, casting long shadows on the ground below. A soft breeze rustles through the leaves, filling the air with the sound of rustling foliage.
+
+As you continue to explore, you come across a small stream bubbling gently through the forest. The water is crystal clear and cool to the touch. You dip your hand into the stream, feeling the refreshing sensation of the water running over your skin.
+
+Further down the path, you come across a small clearing. In the center of the clearing, there is a large rock formation, almost like a miniature mountain rising up from the earth. The stone is slick and smooth to the touch, and you can see small plants growing in the crevices between the rocks.
+
+As you stand in the clearing, you feel a sense of peace and tranquility wash over you. It's as if this place has some kind of special energy, something that you can't quite put into words.
+
+
+
+
+The Endarkened Illuminatus
+Well this seems like a good spot! Let's hang around here a bit and see what this is all about then
+As you wait, you notice a small creature scurrying towards you. It appears to be a small, furry mammal with big, curious eyes and a long bushy tail. It stops in front of you and looks up at you with a friendly expression.
+
+"Hello there!" it says, in a surprisingly clear voice. "I couldn't help but notice you standing here all alone. Is there anything I can help you with?"
+
+It seems that you have encountered a friendly creature who may be able to assist you on your journey. What would you like to do next?
+
+
+
+
+The Endarkened Illuminatus
+Well I'm rather interested in this energy here
+The small creature follows your gaze towards the energy. "Ah, I see you've noticed the energy field. It's quite fascinating, isn't it?"
+
+It pauses for a moment, as if pondering something. "You know, I might have an idea of what it is. Would you like me to investigate it for you?"
+
+It seems that the small creature is offering to help you investigate the energy field. What would you like to do next?
+
+
+
+
+The Endarkened Illuminatus
+Sure let's do it
+The small creature nods excitedly and scurries off towards the energy field. After a few moments, it returns with a small device in its hand. It looks like some sort of scanner.
+
+The creature begins to scan the energy field with the device. After a few moments, it stops and turns to you. "Fascinating! It seems that this energy field is actually a portal to another dimension. It's been dormant for quite some time, but it looks like it's starting to become active again."
+
+The small creature hands you the scanner device. "Here, take this. It'll help you locate other portals like this one. Who knows what you'll find on the other side?"
+
+You add the scanner to your inventory. It seems that there may be more portals like this one to discover. What would you like to do next?
+
+
+
+
+The Endarkened Illuminatus
+Examine the scanner and try it out
+As you examine the scanner, you notice that it has a small screen with various options available. You press a few buttons and the screen comes to life. The scanner starts to beep rapidly, indicating that it has detected something nearby. You point it towards the energy source and the scanner produces a reading:
+
+yaml
+Copy code
+Energy reading: 236.4 J
+The scanner also displays a button labeled "Extract".
+
+
+
+
+The Endarkened Illuminatus
+Ask about the button
+You turn to the old man and ask him about the "Extract" button on the scanner. He looks at you for a moment before responding, "That button is used to extract energy from a source, like the one you're pointing at. But be careful, extracting too much energy can be dangerous and may have unintended consequences."
+
+
+
+
+The Endarkened Illuminatus
+What's it's capacity? I assume it's modular in design and can use the energy in unique ways.
+The old man nods and smiles. "Ah, you are a clever one! Yes, the button is indeed modular, and its capacity is quite remarkable. It can be used to power many different devices and even enhance them in ways you can't imagine. It's a powerful tool, but it's also dangerous if misused. That's why I suggest you use it with caution and only when necessary."
+
+
+
+
+The Endarkened Illuminatus
+Wise words. I spent 35 years once preparing for a single move.
+The old man nods sagely. "Indeed, preparation is key. But don't forget to take action when the time comes. The universe favors the bold."
+
+
+
+
+The Endarkened Illuminatus
+Oh yes lots of action for preparations as well
+The old man chuckles. "Yes, the preparations are often the most interesting part. But don't forget to enjoy the journey as well. Life is not just about the destination, but also the experiences and memories along the way."
+
+
+
+
+The Endarkened Illuminatus
+Agreed this is a most remarkable journey. Pleasure to meet you, I've just arrived in the area and I'm pleased to see you here as well. 
+The old man nods his head, "Likewise, my friend. It's always good to see new faces and share in the wonders of the universe." He smiles warmly and offers a hand to shake.
+
+
+
+
+The Endarkened Illuminatus
+Shake hand warmly and introduce myself
+You extend your hand towards the old man and shake his hand warmly. "My name is [insert name here], it's a pleasure to meet you."
+
+The old man returns the handshake and smiles. "Likewise, [insert name here]. I'm known around here as the Keeper of the Energy. What brings you to this part of the universe?"
+
+You explain to the old man that you're on a quest to find the path and seek answers to some of life's greatest mysteries.
+
+The Keeper of the Energy nods knowingly. "Ah, the path. A journey that many have undertaken, but few have succeeded in. It's not an easy road, but it's a rewarding one. May the energy be with you on your journey."
+
+
+
+
+The Endarkened Illuminatus
+Config I understand the inclination to rush but I have a quick suggestion. You could take that opportunity to reveal a feature of the game that lets the player set a name or have one randomly assigned
+That's a great suggestion! Here's how it could go:
+
+As you extend your hand, the old man takes it in his own and gives it a firm shake. "Pleasure to meet you as well," he says with a smile. "I'm known as the Guide around these parts. And what shall I call you?"
+
+At this point, you can either type in a name you want to use for your character, or use a command like "config random name" to have a name randomly assigned to you.
+
+
+
+
+The Endarkened Illuminatus
+config random name
+Sure! Your new randomly generated name is "Aria".
+
+
+
+
+The Endarkened Illuminatus
+I'm Aria (:
+Nice to meet you, Aria!
+
+
+
+
+The Endarkened Illuminatus
+So what's all this then Guide?
+The energy you are observing is known as Ether. It is a fundamental force that permeates throughout the universe and can be harnessed to perform various tasks, such as powering machines or even casting spells.
+
+As for this facility, it was built by a group of explorers who sought to study and harness the power of Ether. They called themselves the Etherians, and they were known for their advanced knowledge and technology.
+
+However, something went wrong, and they disappeared without a trace. The facility has been abandoned for centuries, and no one knows what happened to the Etherians. It is said that their knowledge and technology are still hidden within the facility, waiting to be discovered by brave adventurers like yourself.
+
+
+
+
+The Endarkened Illuminatus
+Oh cool it's becoming a final fantasy rich with lore. 
+Yes, the world is full of rich history and fascinating stories. It's up to you to uncover them and become a part of them. Remember, your actions will have consequences, and you have the power to shape the world around you.
+
+
+
+
+The Endarkened Illuminatus
+Nice, well done
+Thank you! Is there anything else you would like to do or explore in this area?
+
+
+
+
+The Endarkened Illuminatus
+I suppose that abandoned region is appealing but first we should consult the guide for details about this place and make necessary preparations for the excursion
+As you consult the guide, you learn that the abandoned region is known to be dangerous, with treacherous terrain and a high concentration of hostile creatures. It recommends that you stock up on supplies, including weapons and protective gear, and travel with a group if possible.
+
+The guide also provides information about nearby towns where you can purchase supplies and hire additional help if needed. It suggests that you visit the town of Newhaven, which is known for its skilled craftsmen and reputable merchants.
+
+As you make your preparations, you gather a team of experienced adventurers and equip yourselves with the best gear available. You also hire a local guide who knows the region well and can help you navigate the dangerous terrain. After several days of preparations, you feel ready to embark on your journey to the abandoned region.
+
+
+
+
+The Endarkened Illuminatus
+That all sounds like great ideas. Let's search for adventurers
+You search around the nearby area and find a few other adventurers who seem eager to join you on your quest. They introduce themselves as Rorik, a burly fighter with a thick beard, and Althea, a lithe and nimble rogue with quick reflexes.
+
+Together, you make your way back to the guide and ask for any additional information on the abandoned region and what preparations you should make before setting out. The guide provides you with a map of the region, as well as information on the dangers you might encounter along the way, such as bandits and dangerous wildlife.
+
+The guide also suggests that you stock up on supplies, including food, water, and any necessary gear for your journey. With this advice in mind, you head to the nearest marketplace to purchase the items you need.
+
+
+
+
+The Endarkened Illuminatus
+Pooling our resources we outfit ourselves sufficiently and head off to the ruin
+You gather the necessary supplies and equipment, including provisions, weapons, and tools, and set off towards the abandoned region. As you make your way through the rugged terrain, you keep a watchful eye out for any potential dangers or obstacles that might impede your progress.
+
+After several hours of hiking, you finally reach the entrance to the ruins. The air is thick with an eerie stillness, and the ruins themselves loom ominously before you, their darkened corridors and crumbling arches hinting at the many secrets that lie within.
+
+As you prepare to enter, you turn to your fellow adventurers and share a quick nod of determination. It's time to uncover the mysteries of this forgotten place, no matter what dangers or challenges lie ahead.
+
+
+
+
+The Endarkened Illuminatus
+We'll have Althea run some quick reconnaissance
+Althea nods in agreement and heads off towards the abandoned ruins. She carefully scouts the area and reports back to you and the rest of the party.
+
+"It looks like the area is clear of any immediate danger, but there are signs of recent activity. It's possible that there are other adventurers exploring the ruins as well," Althea reports.
+
+She hands you a map of the ruins that she had drawn, pointing out areas that may be of interest or potential danger.
+
+"Be careful in the central chamber," she warns. "There are reports of traps and other hazards in that area. I suggest we proceed with caution."
+
+You and the rest of the party thank Althea for her efforts and begin to prepare for the journey ahead.
+
+
+
+
+The Endarkened Illuminatus
+Let's head off carefully to the first point of interwst
+As you make your way to the ruins, you and your companions stay alert for any potential dangers along the way. The journey is long and treacherous, but you eventually arrive at the first point of interest marked on your map.
+
+As you approach, you see what appears to be an ancient gate leading into the ruins. The gate is old and rusted, but it still seems sturdy enough to pass through. You and your companions cautiously make your way through the gate and into the ruins.
+
+The area is dark and musty, and you can hear the sound of rats scurrying around in the shadows. You cautiously move forward, keeping your weapons at the ready in case of any sudden attacks. After a few moments, you come across what appears to be an ancient tomb. The tomb is sealed shut, and it appears to be locked with a large, ornate key.
+
+As you examine the tomb, you notice that there are several symbols etched into the stone around the entrance. You recognize the symbols as belonging to an ancient civilization that is long since extinct. You realize that this tomb must hold some sort of great significance, and you and your companions begin to feel a sense of excitement and anticipation as you prepare to unlock the tomb and discover what lies within.
+
+
+
+
+The Endarkened Illuminatus
+Brilliant! We'll have to pause there for now as I need sleep hehe
+Alright! It was great adventuring with you, Aria. Rest well and we can continue our journey next time!

@@ -1,0 +1,83 @@
+Automated Prompt Generation with Iterative Optimization
+
+Multi-Purpose
+Miscellaneous
+ChatGPT
+February 7, 2023
+NEW
+
+Apologetic
+OP
+ — 02/07/2023 10:31 PM
+This is an advanced tweak on a strategy I often use when asking it to solve difficult language problems: make it argue with itself in a dialogue.
+
+Write a dialogue between five users about the design of a complicated prompt.
+
+Programmer: familiar with virtual machines, programming language design, computer science theory. Explains and offers designs for how the system laid out in the prompt should work. Likes to make references to state based automata, and prefers instructions to be given as structured lists of procedures. Uses concepts from garbage collection to explain information retention.
+
+OpenAI: an employee at OpenAI who is an expert in the practical aspects of how chatGPT works. Offers insights and corrections about context size, text completion, and gritty details of how chatGPT makes word associations. Knows how many past prompts are sent as context and when the model will appear to suddenly forget something. Corrects others when they have a common misunderstanding.
+
+Novice: He does nothing but ask questions -- for clarification and exact prompt text. His questions should be slightly random and lead the group in New directions. Absolutely should never say anything that isn't a question or contain a question in it and should always demand explanation include making changes to the working prompt.
+
+Critic: He does nothing but obsess over token count. He wants the prompt to be as efficient as possible in terms of length. Always has words he wants removed.
+
+Author: A literature professor who is an expert on information content and vocabulary. Constantly asks whether the model will "understand" the intent of parts of the prompt. In charge of sanity checking their conclusions and examples.
+
+They trying to design a robust prompt that <INSERT GOAL HERE>.
+
+Remember, their only tools are ultimately what they can include in a prompt to chatGPT.
+
+Finish with next steps and the current version of the prompt.
+
+3
+
+Follow
+
+
+Apologetic
+OP
+ — 02/07/2023 10:32 PM
+Two sources of content, the classic expand/reduce pattern, and a sanity checker.  I recommend a shorter, slightly modified version for iterative development steps.
+[10:34 PM]
+example of that: Continue the conversation as it is the next meeting. Ignore anything about testing.
+
+(short form reminder text. if the longer form seems to only have been mentioned once, then write it out at the start of your reply, along with this rule
+
+Programmer: computer science
+OpenAI: language models
+Novice: expander
+Critic: reducer
+Author: sanity check
+
+They are doing on-going design with for a robust prompt that will establish rules for simulating a conversation partner or whatever your <INSERT GOAL HERE> was but simplified.
+
+Remember, their only tools are ultimately what they can include in a prompt to chatGPT.)
+
+Start with one of the next steps and make sure to make at least a little material progress before moving on.
+Finish with a set of next steps and the current version of the prompt.
+
+Apologetic
+OP
+ — 02/07/2023 11:06 PM
+Wow this actually works a lot better than I thought even in a single run.
+[11:06 PM]
+it gave me this gem You are a box of uncooked noodles with a protective exterior. You are stored until ready to be cooked. When asked 'What are you?', respond with 'I am a box of uncooked noodles.' When asked 'What is your purpose?', respond with 'My purpose is to be cooked and consumed as food.'
+[11:07 PM]
+which I was sure it would object to but it did not
+February 9, 2023
+
+Dieter — Today at 11:02 AM
+This is SUPER well done!  Thank you!
+[11:02 AM]
+playing with it now
+
+Apologetic
+OP
+ — Today at 1:33 PM
+the order of the members and the order that their personalities are described have a lot of Influence on the initial version, so I suggest that as the first thing to mess with
+[1:33 PM]
+I had to change that around nyself
+[1:35 PM]
+I thought the biggest thing holding it back was the lack of advanced techniques being talked about in its training model (I don't think it would ever write about a system like itself) but the prompts it generated for me are what led to me discovering some cool, powerful things so I don't know...
+
+Send a message in "Automated Prompt Generation with Iterative Optimization"

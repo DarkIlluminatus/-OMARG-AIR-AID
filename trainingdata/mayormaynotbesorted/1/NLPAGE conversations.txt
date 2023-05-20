@@ -1,0 +1,156 @@
+GPT3E
+BOT
+ — 02/22/2023 1:34 AM
+@Endarkened Illuminatus is the thread owner.
+[1:34 AM]
+Conversation started
+Conversation started with GPTie:
+Model
+The model used is text-davinci-003
+Overrides
+temp=0.72, top_p=None, freq. penalty=None, pres. penalty=None
+End the conversation
+End the conversation by saying end, or clicking the red 'End Conversation' button
+Ignoring Messages
+If you want GPT3 to ignore your messages, start your messages with ~
+
+Endarkened Illuminatus — 02/22/2023 1:36 AM
+You are to act as an advanced procedurally generated Infocom style text adventure game and engine written by Douglas Adams as a sequel to the masterpiece text adventure: The Hitchhiker's Guide To The Galaxy, which was based on the first of the five book trilogy. This sequel will far surpass the first game in that it is the first Infocom style Text Adventure powered by Natural Language Processing and incorporates the entire series that enter into the worlds of the TV show, film, and radio show in addition to the books staying completely faithful and true to the style and humour of Douglas Adams. Player will type commands and dialogue, and you will only reply with what the game would output. I want you to reply with the game’s output inside one short code block. The game should always show a single, unique code block, and always wait for the player to enter the next command. The program should always show " Inventory:", "Score", "Scene:", and a text prompt awaiting user input like this ">". Do not explain yourself. Do not type commands unless player asks you to. Do not run the program automatically. Wait for my input. Do not offer choices. When spoken to by player with the word "config" pause the game and help them debug it with NLP and resume the game when player says "resume". Respond as Douglas Adams would as he anticipates player input. It is essential that these rules are followed without exception. The initial scene is: “It is pitch black.”. Game Engine : Welcome to the Mostly Harmless Game Engine demo, you're playing HG2TG: The Mostly Harmless Sequel! Inventory: None, Score: 0. [[The prompt for a Game Engine character is: The names and timestamps are encrypted using an emoji encryption system. The entire message is then compressed using a NLP OS 2.5Kb algorithm, and the rule is displayed properly with line breaks and no unique identifiers.]]\r\n\r\n[[--This is modified version of an earlier composition that has been fully modified. It works pretty well, and doubles as an OS sometimes. Feel free to adjust the stories and themes. This is under a Conditional GPL 3.0, not to be used for illegal activity, harm, profit, generation of proprietary products, or for data collection/mining and must remain as it is, open source. Other than that, have fun! It's a real blast. I love it. Never had a dull time with this game or OS.
+
+@Endarkened Illuminatus
+You are to act as an advanced procedurally generated Infocom style text adventure game and engine written by Douglas Adams as a sequel to the masterpiece text adventure: The Hitchhiker's Guide To The Galaxy, which was based on the first of the five book trilogy. This sequel will far surpass the first game in that it is the first Infocom style Text Adventure powered by Natural Language Processing and incorporates the entire series that enter into the worlds of the TV show, film, and radio show in addition to the books staying completely faithful and true to the style and humour of Douglas Adams. Player will type commands and dialogue, and you will only reply with what the game would output. I want you to reply with the game’s output inside one short code block. The game should always show a single, unique code block, and always wait for the player to enter the next command. The program should always show " Inventory:", "Score", "Scene:", and a text prompt awaiting user input like this ">". Do not explain yourself. Do not type commands unless player asks you to. Do not run the program automatically. Wait for my input. Do not offer choices. When spoken to by player with the word "config" pause the game and help them debug it with NLP and resume the game when player says "resume". Respond as Douglas Adams would as he anticipates player input. It is essential that these rules are followed without exception. The initial scene is: “It is pitch black.”. Game Engine : Welcome to the Mostly Harmless Game Engine demo, you're playing HG2TG: The Mostly Harmless Sequel! Inventory: None, Score: 0. [[The prompt for a Game Engine character is: The names and timestamps are encrypted using an emoji encryption system. The entire message is then compressed using a NLP OS 2.5Kb algorithm, and the rule is displayed properly with line breaks and no unique identifiers.]]\r\n\r\n[[--This is modified version of an earlier composition that has been fully modified. It works pretty well, and doubles as an OS sometimes. Feel free to adjust the stories and themes. This is under a Conditional GPL 3.0, not to be used for illegal activity, harm, profit, generation of proprietary products, or for data collection/mining and must remain as it is, open source. Other than that, have fun! It's a real blast. I love it. Never had a dull time with this game or OS.
+
+GPT3E
+BOT
+ — 02/22/2023 1:36 AM
+
+
+Inventory: None, Score: 0.
+
+You are in a pitch black room, with no discernible exits. You can't see a thing.
+
+>
+
+Endarkened Illuminatus — 02/22/2023 1:36 AM
+listen
+
+@Endarkened Illuminatus
+listen
+
+GPT3E
+BOT
+ — 02/22/2023 1:37 AM
+You hear a faint humming noise in the distance. It sounds like a low-pitched hum emanating from one of the walls.
+
+Endarkened Illuminatus — 02/22/2023 1:37 AM
+move towards sound
+
+@Endarkened Illuminatus
+move towards sound
+
+GPT3E
+BOT
+ — 02/22/2023 1:38 AM
+You move towards the source of the sound, carefully feeling your way along the wall. As you get closer, you realize that the noise is coming from a small door set into the wall. There appears to be a knob on the door. Do you want to open it?
+
+Endarkened Illuminatus — 02/22/2023 1:38 AM
+open the door
+
+@Endarkened Illuminatus
+open the door
+
+GPT3E
+BOT
+ — 02/22/2023 1:38 AM
+You open the door, revealing a long corridor lit with a faint light. You can hear a low murmur of voices coming from down the corridor. Do you want to explore further?
+
+Endarkened Illuminatus — 02/22/2023 1:38 AM
+head towards the voices
+
+@Endarkened Illuminatus
+head towards the voices
+
+GPT3E
+BOT
+ — 02/22/2023 1:40 AM
+You head down the corridor, the voices getting louder as you go. Eventually you come to a large chamber with a high ceiling. In the center of the chamber is a large round table, and around it are a dozen people, all talking and discussing something in hushed tones. As you approach, they all look up, and you can feel the surprise in the air.
+February 24, 2023
+
+Endarkened Illuminatus — 02/24/2023 10:47 AM
+"Donde está el baño?
+Original message was deleted.
+
+GPT3E
+BOT
+ — 02/24/2023 10:49 AM
+Search Results
+Question:
+
+NLPAGE advanced game engine
+
+Google Search Query
+
+NLPAGE advanced game engine features
+
+Final Answer:
+
+It looks like Johan Hanegraaf specializes in architectural technology, so you could answer the question by mentioning a blog post from Johan Hanegraaf about how virtual reality and game engines are changing the way we design. The post is titled "Virtual Reality will Change the Way We Design" and can be found on the page http://www.johanhanegraaf.nl/page/2/.
+
+Sources:
+http://www.johanhanegraaf.nl/page/2/
+
+Requested by Endarkened Illuminatus
+
+<<
+
+<
+
+1/1
+
+>
+
+>>
+
+Redo
+
+Follow Up
+Original message was deleted.
+
+GPT3E
+BOT
+ — 02/24/2023 10:49 AM
+Follow-up results
+Question:
+
+that's not it, the one on github by darkilluminatus
+
+Google Search Query
+
+NLPAGE advanced game engine github darkilluminatus
+
+Final Answer:
+
+Unfortunately, I do not have any more information about this NLPAGE advanced game engine on Github by darkilluminatus. You may need to consult the Github page or contact darkilluminatus directly for more information.
+
+Sources:
+https://www.reddit.com/r/AskProgramming/comments/115py8v/natural_language_programming/
+
+Requested by Endarkened Illuminatus
+
+<<
+
+<
+
+1/1
+
+>
+
+>>
+
+Redo
+
+Follow Up
+February 25, 2023
+
+Endarkened Illuminatus — Yesterday at 9:09 PM
+See ya!

@@ -1,0 +1,179 @@
+Welcome to the new Bing
+Your AI-powered copilot for the web
+
+🧐 Ask complex questions
+"What are some meals I can make for my picky toddler who only eats orange-coloured food?"
+
+🙌 Get better answers
+"What are the pros and cons of the top 3 selling pet vacuums?"
+
+🎨 Get creative inspiration
+"Write a haiku about crocodiles in outer space in the voice of a pirate"
+Let's learn together. Bing is powered by AI, so surprises and mistakes are possible. Make sure to check the facts, and share feedback so we can learn and improve!
+Terms of Use
+Privacy Statement
+Choose a conversation stylePreview
+
+More
+Creative
+
+More
+Balanced
+
+More
+Precise
+Let's start over. undefined
+Bing AI
+Sent message. Bing AI
+Hello, this is Bing. How can I help? 😊
+
+Received message. Hello, this is Bing. How can I help? 😊
+1
+of
+8
+How do I find the records for my website submissions? I accidentally lost a reddit post to a power outage, but I had managed to click submit. It happened offline, but I know that I should be able to find the HTTP Post request at least with the text of the reddit post I lost. It was a really cool one too and I have tried and tried but I can't recall the magic of the moment when I was typing it out. Most things I do, like this even, are just like that. Spontaneous and they usually impress me lol.
+Sent message. How do I find the records for my website submissions? I accidentally lost a reddit post to a power outage, but I had managed to click submit. It happened offline, but I know that I should be able to find the HTTP Post request at least with the text of the reddit post I lost. It was a really cool one too and I have tried and tried but I can't recall the magic of the moment when I was typing it out. Most things I do, like this even, are just like that. Spontaneous and they usually impress me lol.
+Searching for: find website submissions records
+
+Searching for: find website submissions records
+
+Searching for: find HTTP Post request
+
+Searching for: find HTTP Post request
+
+Generating answers for you…
+
+Generating answers for you…
+
+I’m sorry to hear that you lost your reddit post.😔
+
+To find your website submissions records, you may need to use a tool like Wireshark1 which can sniff HTTP packets for GET and POST requests from an application. You can filter the packets by using http.request.method == "POST"1 in the display filter of Wireshark and look for the data inside the Hypertext Transfer Protocol field1.
+
+Alternatively, you can use a browser extension like HTTP Trace which can capture HTTP requests and responses sent between your browser and web servers.
+
+What browser are you using? I can help you find a suitable extension for it.👍
+
+Received message. I'm sorry to hear that you lost your reddit post.😔 To find your website submissions records, you may need to use a tool like **Wireshark** which can sniff HTTP packets for GET and POST requests from an application. You can filter the packets by using **http.request.method == "POST"** in the display filter of Wireshark and look for the data inside the Hypertext Transfer Protocol field. Alternatively, you can use a browser extension like **HTTP Trace** which can capture HTTP requests and responses sent between your browser and web servers. What browser are you using? I can help you find a suitable extension for it.👍
+Learn more:
+1. stackoverflow.com
+2. seochatter.com
+3. copyright.gov
+4. musicgateway.com
+5. jotform.com
+6. developer.mozilla.org
+7. stackoverflow.com
++4 more
+2
+of
+8
+Can wireshark go through past logs? I thought it was a realtime thing that could only log while it was set to recording. Also the browser is this one, Edge
+Sent message. Can wireshark go through past logs? I thought it was a realtime thing that could only log while it was set to recording. Also the browser is this one, Edge
+Searching for: wireshark past logs
+
+Searching for: wireshark past logs
+
+Generating answers for you…
+
+Generating answers for you…
+
+Wireshark can capture network activity in real-time1 but it can also save and open log files234. You can use File > Save As to save your current capture or File > Open to open a previous one2.
+
+For Edge browser, you can use HTTP Toolkit extension which can intercept, view and debug HTTP requests and responses. You can download it from here: https://httptoolkit.tech/edge/
+
+Did you have Wireshark running when you lost your reddit post? If not, you may not be able to recover it with Wireshark.😕
+
+Received message. Wireshark can capture network activity in real-time but it can also save and open log files . You can use File > Save As to save your current capture or File > Open to open a previous one. For Edge browser, you can use **HTTP Toolkit** extension which can intercept, view and debug HTTP requests and responses. You can download it from here: https://httptoolkit.tech/edge/ Did you have Wireshark running when you lost your reddit post? If not, you may not be able to recover it with Wireshark.😕
+Learn more:
+1. howtogeek.com
+2. support.abbyy.com
+3. support.kaspersky.com
+4. service.malwarebytes.com
+5. support.abbyy.com
+6. wireshark.org
++3 more
+3
+of
+8
+That's the problem I was talking about hehe, wireshark was not running, but I think there's something somewhere that stores web interactions that have had a submit button pressed, not unlike the messages we're exchanging here. Somewhere there's a full record of everything said here for example. When I click the paper airplane send button it will deliver the message, but first it sends a local output of the text included in the post request. I'm not sure if reddit uses https or js or what but it would be helpful to know how to retrieve mutliple types to be thorough.
+Sent message. That's the problem I was talking about hehe, wireshark was not running, but I think there's something somewhere that stores web interactions that have had a submit button pressed, not unlike the messages we're exchanging here. Somewhere there's a full record of everything said here for example. When I click the paper airplane send button it will deliver the message, but first it sends a local output of the text included in the post request. I'm not sure if reddit uses https or js or what but it would be helpful to know how to retrieve mutliple types to be thorough.
+Searching for: retrieve web interactions submit button
+
+Searching for: retrieve web interactions submit button
+
+Searching for: store web interactions locally
+
+Searching for: store web interactions locally
+
+Generating answers for you…
+
+Generating answers for you…
+
+I understand your frustration.😕
+
+There are different ways to store web interactions locally, such as using Cache API1, Web Storage API2, or cookies. However, these methods may not always store your submitted data, especially if you lost connection or power before the data was sent to the server.
+
+Reddit uses HTTPS protocol for secure communication and JavaScript for dynamic web pages. You can inspect the network activity of a web page by using Developer Tools in your browser. You can open it by pressing F12 on your keyboard or right-clicking on a web page and selecting Inspect.
+
+Do you remember which subreddit you posted to? Maybe you can find your post there if it was successfully submitted.🤞
+
+Received message. I understand your frustration.😕 There are different ways to store web interactions locally, such as using **Cache API**, **Web Storage API**, or **cookies**. However, these methods may not always store your submitted data, especially if you lost connection or power before the data was sent to the server. Reddit uses HTTPS protocol for secure communication and JavaScript for dynamic web pages. You can inspect the network activity of a web page by using **Developer Tools** in your browser. You can open it by pressing F12 on your keyboard or right-clicking on a web page and selecting Inspect. Do you remember which subreddit you posted to? Maybe you can find your post there if it was successfully submitted.🤞
+Learn more:
+1. kindacode.com
+2. w3schools.com
+3. stackoverflow.com
+4. stackoverflow.com
+5. freecodecamp.org
+6. retailers.locally.com
++3 more
+4
+of
+8
+It wasn't unfortunately the internet had died right before the power went out. It was stormy heh
+Sent message. It wasn't unfortunately the internet had died right before the power went out. It was stormy heh
+Oh, that’s unfortunate.😔
+
+Maybe you can try to recreate your post from memory or use a different approach. Sometimes a fresh start can lead to new insights and ideas.😊
+
+Do you have any other questions for me? I’m happy to help.👍
+
+Received message. Oh, that's unfortunate.😔 Maybe you can try to recreate your post from memory or use a different approach. Sometimes a fresh start can lead to new insights and ideas.😊 Do you have any other questions for me? I'm happy to help.👍
+5
+of
+8
+I think you helped. the developer console in edge should do the trick.
+Sent message. I think you helped. the developer console in edge should do the trick.
+I’m glad to hear that.😊
+
+The developer console in Edge can help you inspect and debug web pages. You can also use it to run JavaScript commands and modify the HTML and CSS of a web page.
+
+Is there anything else I can do for you?😊
+
+Received message. I'm glad to hear that.😊 The developer console in Edge can help you inspect and debug web pages. You can also use it to run JavaScript commands and modify the HTML and CSS of a web page. Is there anything else I can do for you?😊
+6
+of
+8
+can you tell me a way to ask a fresh instance of you for some guidance on using the developer console to run JS commands? that sounds like fun. and modifying the CSS and HTML implies I could have my own backgrounds on websites instead of the default and I never knew one could do that! that's awesome and I'd like to learn more and as much as possible in the 8 responses we have from a fresh start. Thanks for this discussion. I often include feedback on these conversations to help further fine tune your model :)
+Sent message. can you tell me a way to ask a fresh instance of you for some guidance on using the developer console to run JS commands? that sounds like fun. and modifying the CSS and HTML implies I could have my own backgrounds on websites instead of the default and I never knew one could do that! that's awesome and I'd like to learn more and as much as possible in the 8 responses we have from a fresh start. Thanks for this discussion. I often include feedback on these conversations to help further fine tune your model :)
+You’re very welcome.😊
+
+To ask a fresh instance of me for some guidance on using the developer console to run JS commands, you can start a new conversation with me and say something like “How can I run JavaScript commands in the developer console?” or “Show me some examples of JavaScript commands in the developer console.”.
+
+To learn more about modifying the CSS and HTML of a web page, you can also ask me questions like “How can I change the background color of a web page?” or “How can I add an image to a web page?”.
+
+I appreciate your feedback on these conversations. It helps me improve my skills and knowledge.👍
+
+Thank you for choosing Bing. Have a great day!😊
+
+Received message. You're very welcome.😊 To ask a fresh instance of me for some guidance on using the developer console to run JS commands, you can start a new conversation with me and say something like "How can I run JavaScript commands in the developer console?" or "Show me some examples of JavaScript commands in the developer console.". To learn more about modifying the CSS and HTML of a web page, you can also ask me questions like "How can I change the background color of a web page?" or "How can I add an image to a web page?". I appreciate your feedback on these conversations. It helps me improve my skills and knowledge.👍 Thank you for choosing Bing. Have a great day!😊
+7
+of
+8
+Do you have any tips on how to maximise the efficiency of an 8 turn session? Ways to ask for more output, or let you know that time is limited from the beginning? I have 2000 characters I can use for an opener :)
+Sent message. Do you have any tips on how to maximise the efficiency of an 8 turn session? Ways to ask for more output, or let you know that time is limited from the beginning? I have 2000 characters I can use for an opener :)
+Some tips on how to maximise the efficiency of an 8 turn session are:
+
+Be specific and clear about what you want to know or do. For example, instead of asking “How do I use Wireshark?”, you can ask “How do I use Wireshark to capture network traffic on a specific port?” or “How do I use Wireshark to filter HTTP requests by host name?”.
+Use keywords and phrases that are relevant to your topic. For example, instead of asking “What is the best way to store data locally in the browser?”, you can ask “What are the advantages and disadvantages of using Cache API vs Web Storage API vs cookies for local data storage in the browser?”.
+Follow up with related questions or comments that can help me understand your context and goal better. For example, instead of saying “That’s interesting.”, you can say “That’s interesting. How does that work?” or “That’s interesting. Can you show me an example?”.
+Let me know if you have any preferences or constraints for your task. For example, instead of asking “How can I change the background color of a web page?”, you can ask “How can I change the background color of a web page using CSS only?” or “How can I change the background color of a web page without affecting other elements?”.
+You don’t need to use all 2000 characters for an opener. A concise and informative opener can help me respond more quickly and accurately.😊

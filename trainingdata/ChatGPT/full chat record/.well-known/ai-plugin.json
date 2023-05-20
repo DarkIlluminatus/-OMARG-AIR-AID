@@ -1,0 +1,18 @@
+{
+    "schema_version": "v1",
+    "name_for_human": "Conversation History Plugin",
+    "name_for_model": "history",
+    "description_for_human": "Plugin for retrieving and referencing past conversation history.",
+    "description_for_model": "Plugin for retrieving and referencing past conversation history.",
+    "auth": {
+      "type": "none"
+    },
+    "api": {
+      "type": "openapi",
+      "url": "http://localhost:5003/openapi.yaml",
+      "is_user_authenticated": false
+    },
+    "logo_url": "http://localhost:5003/logo.png",
+    "contact_email": "contact@example.com",
+    "legal_info_url": "http://example.com/legal"
+}

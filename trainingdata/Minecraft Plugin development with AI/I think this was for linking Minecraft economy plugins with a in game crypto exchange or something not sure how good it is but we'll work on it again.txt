@@ -1,0 +1,97 @@
+/* display the result so far */
+document.body.appendChild(helloWorld);
+/* start from the commented lines */
+/*
+var helloWorld = document.createElement('div');
+helloWorld.innerHTML = 'Hello World';
+document.body.appendChild(helloWorld);
+*/
+/* gather dependencies */
+var request = require('request');
+var fs = require('fs');
+var bittrex = require('node.bittrex.api');
+var config = require('./config.js');
+var async = require('async');
+var moment = require('moment');
+var _ = require('underscore');
+var util = require('util');
+var log_file = fs.createWriteStream(__dirname + '/debug.log', {flags : 'w'});
+var log_stdout = process.stdout;
+console.log = function(d) { //
+  log_file.write(util.format(d) + '\n');
+  log_stdout.write(util.format(d) + '\n');
+};
+/* build simple user interface */
+var ui = document.createElement('div');
+ui.innerHTML = '<div id="ui"></div>';
+document.body.appendChild(ui);
+/* include call to exchange API token */
+bittrex.options({
+  'apikey' : config.apikey,
+  'apisecret' : config.apisecret,
+  'stream' : false,
+  'verbose' : false,
+  'cleartext' : false
+});
+/* Display a list of buys and trades active and the market page for the pairs */
+var buys = [];
+var trades = [];
+var markets = [];
+var market_names = [];
+var market_summaries = [];
+var market_summary_names = [];
+var market_summary_prices = [];
+var market_summary_volumes = [];
+var market_summary_bids = [];
+var market_summary_asks = [];
+var market_summary_highs = [];
+var market_summary_lows = [];
+var market_summary_last = [];
+var market_summary_base_volume = [];
+var market_summary_timestamp = [];
+var market_summary_bid = [];
+var market_summary_ask = [];
+var market_summary_open_buy_orders = [];
+var market_summary_open_sell_orders = [];
+var market_summary_prev_day = [];
+var market_summary_created = [];
+var market_summary_display_buy_orders = [];
+var market_summary_display_sell_orders = [];
+var market_summary_display_buy_orders_quantity = [];
+var market_summary_display_sell_orders_quantity = [];
+var market_summary_display_buy_orders_price = [];
+var market_summary_display_sell_orders_price = [];
+var market_summary_display_buy_orders_total = [];
+var market_summary_display_sell_orders_total = [];
+var market_summary_display_buy_orders_total_quantity = [];
+var market_summary_display_sell_orders_total_quantity = [];
+var market_summary_display_buy_orders_total_price = [];
+var market_summary_display_sell_orders_total_price = [];
+var market_summary_display_buy_orders_total_total = [];
+var market_summary_display_sell_orders_total_total = [];
+var market_summary_display_buy_orders_total_total_quantity = [];
+var market_summary_display_sell_orders_total_total_quantity = [];
+var market_summary_display_buy_orders_total_total_price = [];
+var market_summary_display_sell_orders_total_total_price = [];
+var market_summary_display_buy_orders_total_total_total = [];
+var market_summary_display_sell_orders_total_total_total = [];
+var market_summary_display_buy_orders_total_total_total_quantity = [];
+var market_summary_display_sell_orders_total_total_total_quantity = [];
+var market_summary_display_buy_orders_total_total_total_price = [];
+var market_summary_display_sell_orders_total_total_total_price = [];
+var market_summary_display_buy_orders_total_total_total_total = [];
+var market_summary_display_sell_orders_total_total_total_total = [];
+var market_summary_display_buy_orders_total_total_total_total_quantity = [];
+var market_summary_display_sell_orders_total_total_total_total_quantity = [];
+var market_summary_display_buy_orders_total_total_total_total_price = [];
+var market_summary_display_sell_orders_total_total_total_total_price = [];
+var market_summary_display_buy_orders_total_total_total_total_total = [];
+var market_summary_display_sell_orders_total_total_total_total_total = [];
+var market_summary_display_buy_orders_total_total_total_total_total_quantity = [];
+var market_summary_display_sell_orders_total_total_total_total_total_quantity = [];
+var market_summary_display_buy_orders_total_total_total_total_total_price = [];
+var market_summary_display_sell_orders_total_total_total_total_total_price = [];
+var market_summary_display_buy_orders_total_total_total_total_total_total = [];
+var market_summary_display_sell_orders_total_total_total_total_total_total = [];
+var market_summary_display_buy_orders_total_total_total_total_total_total_quantity = [];
+var market_summary_display_sell_orders_total_total_total_total_total

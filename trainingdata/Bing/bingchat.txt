@@ -1,0 +1,245 @@
+Welcome to the new Bing
+Your AI-powered copilot for the web
+
+🧐 Ask complex questions
+"What are some meals I can make for my picky toddler who only eats orange-coloured food?"
+
+🙌 Get better answers
+"What are the pros and cons of the top 3 selling pet vacuums?"
+
+🎨 Get creative inspiration
+"Write a haiku about crocodiles in outer space in the voice of a pirate"
+Let's learn together. Bing is powered by AI, so surprises and mistakes are possible. Make sure to check the facts, and share feedback so we can learn and improve!
+Terms of Use
+Privacy Statement
+Choose a conversation stylePreview
+
+More
+Creative
+
+More
+Balanced
+
+More
+Precise
+Let's start over. undefined
+Okay, I’ve cleared the slate for a fresh start. What can I help you explore now?
+Received message. Okay, I’ve cleared the slate for a fresh start. What can I help you explore now?
+How can I use the developer console to modify the way a webpage appears to me? It's a js interface and I'd like to change around the background images and the way it buffers words
+Sent message. How can I use the developer console to modify the way a webpage appears to me? It's a js interface and I'd like to change around the background images and the way it buffers words
+Searching for: use developer console to modify webpage
+
+Searching for: use developer console to modify webpage
+
+Generating answers for you…
+
+Generating answers for you…
+
+You can use the developer console to modify the way a webpage appears to you by editing its HTML, CSS or JavaScript code. To open the developer console, you can press Ctrl + Shift + J (Windows, Linux) or Command + Option + J (macOS) on your keyboard1. You can also right-click on any element on the webpage and select Inspect2.
+
+To change the background images of a webpage, you need to find and edit its CSS code. You can use the select element tool2 to select an element on a webpage and see its corresponding CSS code in the console under Styles tab. You can then edit any property or value of that element as you like.
+
+To change how a webpage buffers words, you need to find and edit its JavaScript code. You can use the Console tab3 to run JavaScript commands that affect the webpage’s behavior. For example, you can type document.designMode = 'on'3 and press Enter to make any text on a webpage editable.
+
+What kind of changes do you want to make? I can help you with more specific instructions if you tell me more details.😊
+
+Received message. You can use the developer console to modify the way a webpage appears to you by editing its HTML, CSS or JavaScript code. To open the developer console, you can press **Ctrl + Shift + J** (Windows, Linux) or **Command + Option + J** (macOS) on your keyboard. You can also right-click on any element on the webpage and select **Inspect**. To change the background images of a webpage, you need to find and edit its CSS code. You can use the **select element tool** to select an element on a webpage and see its corresponding CSS code in the console under **Styles** tab. You can then edit any property or value of that element as you like. To change how a webpage buffers words, you need to find and edit its JavaScript code. You can use the **Console** tab to run JavaScript commands that affect the webpage's behavior. For example, you can type `document.designMode = 'on'` and press Enter to make any text on a webpage editable. What kind of changes do you want to make? I can help you with more specific instructions if you tell me more details.😊
+Learn more:
+1. learn.microsoft.com
+2. webnots.com
+3. howtogeek.com
+4. bing.com
+1
+of
+8
+I'd like to change the background colour, of both the page and the text output boxes, they're too bright for my eyes cuz our lights need replacing and it's naturally pretty dark in here lol. I am using the dark mode on both windows and Edge browser but they don't work in this applet or whatever it's called. I'd also like for the buffer to retain all instances rather than a limited amount so I can review information more efficiently to better develop my applications and whatnot
+Sent message. I'd like to change the background colour, of both the page and the text output boxes, they're too bright for my eyes cuz our lights need replacing and it's naturally pretty dark in here lol. I am using the dark mode on both windows and Edge browser but they don't work in this applet or whatever it's called. I'd also like for the buffer to retain all instances rather than a limited amount so I can review information more efficiently to better develop my applications and whatnot
+Searching for: change background color of webpage and text boxes
+
+Searching for: change background color of webpage and text boxes
+
+Generating answers for you…
+
+Generating answers for you…
+
+To change the background color of a webpage, you need to edit its CSS code. You can use the select element tool1 to select an element on a webpage and see its corresponding CSS code in the console under Styles tab. You can then edit any property or value of that element as you like.
+
+To change the background color of both the page and the text output boxes, you need to find and edit their background-color property234. You can use any color name, hexadecimal code or RGB value for this property. For example, you can type background-color: black;234 to make an element have a black background.
+
+To change how much buffer a webpage retains, you need to edit its JavaScript code. You can use the Console tab4 to run JavaScript commands that affect the webpage’s behavior. However, this depends on how the webpage is coded and what kind of buffer it uses. Can you tell me more about what kind of applet or interface you are using? I might be able to find some specific commands for you.😊
+
+Received message. To change the background color of a webpage, you need to edit its CSS code. You can use the **select element tool** to select an element on a webpage and see its corresponding CSS code in the console under **Styles** tab. You can then edit any property or value of that element as you like. To change the background color of both the page and the text output boxes, you need to find and edit their **background-color** property . You can use any color name, hexadecimal code or RGB value for this property. For example, you can type `background-color: black;` to make an element have a black background. To change how much buffer a webpage retains, you need to edit its JavaScript code. You can use the **Console** tab to run JavaScript commands that affect the webpage's behavior. However, this depends on how the webpage is coded and what kind of buffer it uses. Can you tell me more about what kind of applet or interface you are using? I might be able to find some specific commands for you.😊
+Learn more:
+1. dotnetheaven.com
+2. w3docs.com
+3. html.am
+4. blog.hubspot.com
+5. w3schools.com
++2 more
+2
+of
+8
+Well it's similar to this one. It's basically a web based chat interface
+Sent message. Well it's similar to this one. It's basically a web based chat interface
+Searching for: increase buffer size of web based chat interface
+
+Searching for: increase buffer size of web based chat interface
+
+Generating answers for you…
+
+Generating answers for you…
+
+I see. To increase the buffer size of a web based chat interface, you need to edit its JavaScript code. You can use the Console tab1 to run JavaScript commands that affect the webpage’s behavior. However, this depends on how the chat interface is coded and what kind of buffer it uses.
+
+There are different ways to modify a buffer size depending on what kind of socket, stream or protocol it uses2345. For example, you can use socket.setsockopt()2 method to change a socket’s send/receive buffer sizes in Python. You can also use httpRuntime section in web.config file to change the max request length and disk threshold for an ASP.NET application4.
+
+Can you tell me more about what kind of chat interface you are using? What is its name or URL? What language or framework does it use? I might be able to find some specific commands for you.😊
+
+Received message. I see. To increase the buffer size of a web based chat interface, you need to edit its JavaScript code. You can use the **Console** tab to run JavaScript commands that affect the webpage's behavior. However, this depends on how the chat interface is coded and what kind of buffer it uses. There are different ways to modify a buffer size depending on what kind of socket, stream or protocol it uses . For example, you can use `socket.setsockopt()` method to change a socket's send/receive buffer sizes in Python. You can also use `httpRuntime` section in web.config file to change the max request length and disk threshold for an ASP.NET application. Can you tell me more about what kind of chat interface you are using? What is its name or URL? What language or framework does it use? I might be able to find some specific commands for you.😊
+Learn more:
+1. stackoverflow.com
+2. subscription.packtpub.com
+3. stackoverflow.com
+4. stackoverflow.com
+5. learn.microsoft.com
+6. docs.vmware.com
++4 more
+3
+of
+8
+I believe it uses this exact same interface
+Sent message. I believe it uses this exact same interface
+Searching for: what kind of chat interface is this
+
+Searching for: what kind of chat interface is this
+
+Generating answers for you…
+
+Generating answers for you…
+
+Oh, I see. You are using a chat interface called Bing Chat12. It is a new feature that allows users to ask questions and receive answers from GPT-4, an artificial intelligence language model built by Microsoft Research12. It is integrated with Windows 11 Taskbar and Search Box12.
+
+Unfortunately, I don’t have access to the JavaScript code of Bing Chat, so I can’t tell you how to increase its buffer size. However, you can try some general tips to improve its performance:
+
+Clear your browser cache and cookies regularly
+Update your browser and Windows 11 to the latest version
+Close any unnecessary tabs or applications that might slow down your device
+Check your internet connection speed and stability
+I hope this helps. Is there anything else I can do for you?😊
+
+Received message. Oh, I see. You are using a chat interface called **Bing Chat** . It is a new feature that allows users to ask questions and receive answers from **GPT-4**, an artificial intelligence language model built by Microsoft Research . It is integrated with Windows 11 Taskbar and Search Box . Unfortunately, I don't have access to the JavaScript code of Bing Chat, so I can't tell you how to increase its buffer size. However, you can try some general tips to improve its performance: - Clear your browser cache and cookies regularly - Update your browser and Windows 11 to the latest version - Close any unnecessary tabs or applications that might slow down your device - Check your internet connection speed and stability I hope this helps. Is there anything else I can do for you?😊
+Learn more:
+1. computerworld.com
+2. windowscentral.com
+3. support.microsoft.com
+4
+of
+8
+oh the performance is stellar :) It's just the limited memory causes a lot of great words to disappear
+Sent message. oh the performance is stellar :) It's just the limited memory causes a lot of great words to disappear
+I’m glad to hear that the performance is stellar.😊 I’m sorry to hear that the limited memory causes some words to disappear.😢
+
+Maybe you can try to copy and paste the words you want to keep in a separate document or file. That way, you won’t lose them even if they disappear from the chat interface.
+
+Alternatively, you can try to use a different chat interface that has more memory or allows you to adjust the buffer size. There are many web-based chat interfaces available online that you can use for free or with a subscription.
+
+Do you want me to search for some web-based chat interfaces for you?😊
+
+Received message. I'm glad to hear that the performance is stellar.😊 I'm sorry to hear that the limited memory causes some words to disappear.😢 Maybe you can try to copy and paste the words you want to keep in a separate document or file. That way, you won't lose them even if they disappear from the chat interface. Alternatively, you can try to use a different chat interface that has more memory or allows you to adjust the buffer size. There are many web-based chat interfaces available online that you can use for free or with a subscription. Do you want me to search for some web-based chat interfaces for you?😊
+5
+of
+8
+Are there other interfaces for gpt4?
+Sent message. Are there other interfaces for gpt4?
+Searching for: interfaces for gpt4
+
+Searching for: interfaces for gpt4
+
+Generating answers for you…
+
+Generating answers for you…
+
+Yes, there are other interfaces for GPT-4. GPT-4 is a new language model being created by OpenAI that can generate text that is similar to human speech12. It will advance the technology used by Bing Chat, which is based on GPT-3.512.
+
+Some of the interfaces for GPT-4 that I found are:
+
+ChatGPT 4: A chatbot interface that allows users to have conversations with GPT-4 on various topics1.
+Codex: A code generation interface that allows users to write code using natural language commands3.
+GPT-4 Playground: A web-based interface that allows users to experiment with different use cases of GPT-4 such as creative writing, classification, chat bots and others4.
+These interfaces are still in development or beta testing, so they might not be available for public use yet.
+
+Do you want me to search for more interfaces for GPT-4?😊
+
+Received message. Yes, there are other interfaces for GPT-4. GPT-4 is a new language model being created by OpenAI that can generate text that is similar to human speech . It will advance the technology used by Bing Chat, which is based on GPT-3.5 . Some of the interfaces for GPT-4 that I found are: - **ChatGPT 4**: A chatbot interface that allows users to have conversations with GPT-4 on various topics. - **Codex**: A code generation interface that allows users to write code using natural language commands. - **GPT-4 Playground**: A web-based interface that allows users to experiment with different use cases of GPT-4 such as creative writing, classification, chat bots and others. These interfaces are still in development or beta testing, so they might not be available for public use yet. Do you want me to search for more interfaces for GPT-4?😊
+Learn more:
+1. digitaltrends.com
+2. forbes.com
+3. gpt3demo.com
+4. github.com
+5. analyticsindiamag.com
++1 more
+6
+of
+8
+Well, I had thought it would be more like a sort of edge extension or something for bing chat that allows the buffer to store conversations all in one interface window even after a refresh. Like if I refresh the whole buffer is wiped
+Sent message. Well, I had thought it would be more like a sort of edge extension or something for bing chat that allows the buffer to store conversations all in one interface window even after a refresh. Like if I refresh the whole buffer is wiped
+Searching for: edge extension for bing chat
+
+Searching for: edge extension for bing chat
+
+Generating answers for you…
+
+Generating answers for you…
+
+I understand. You want an edge extension for Bing Chat that allows you to store conversations even after a refresh.😊
+
+Unfortunately, I couldn’t find any edge extension that does exactly what you want.😢 However, I found some related information that might be helpful:
+
+Microsoft has integrated Bing Chat AI into Edge mobile, Bing apps, and Skype12. You can try these apps to see if they have better chat features than Bing Chat on Windows 11 Taskbar and Search Box3.
+Microsoft has also launched a new version of Edge with ChatGPT-powered AI chat experience4. You can download it from microsoftedgeinsider.com for Edge Dev4. You can also use a Bing browser extension to access Bing Chat AI in any web browser5.
+Microsoft Edge Addons is a website where you can find various extensions for Edge browser6. You can browse or search for extensions that might enhance your chat experience.
+I hope this helps. Do you have any other questions?😊
+
+Received message. I understand. You want an edge extension for Bing Chat that allows you to store conversations even after a refresh.😊 Unfortunately, I couldn't find any edge extension that does exactly what you want.😢 However, I found some related information that might be helpful: - Microsoft has integrated Bing Chat AI into Edge mobile, Bing apps, and Skype . You can try these apps to see if they have better chat features than Bing Chat on Windows 11 Taskbar and Search Box. - Microsoft has also launched a new version of Edge with ChatGPT-powered AI chat experience. You can download it from microsoftedgeinsider.com for Edge Dev. You can also use a Bing browser extension to access Bing Chat AI in any web browser. - Microsoft Edge Addons is a website where you can find various extensions for Edge browser. You can browse or search for extensions that might enhance your chat experience. I hope this helps. Do you have any other questions?😊
+Learn more:
+1. androidauthority.com
+2. windowscentral.com
+3. windowscentral.com
+4. windowscentral.com
+5. beebom.com
+6. microsoftedge.microsoft.com
++3 more
+7
+of
+8
+Can you tell me more about how to get in a fresh session caught up on this information and get further details? I'd like to try a couple options you suggested. Wait. Skype? Can you tell me more about that also? And I wouldn't mind trying my hand at developing some Edge extensions that allow for more appealing and aesthetic Bing Chat sessions, so I'd need to know what sort of things to ask for. This is our last turn so feel free to be as thorough and wordy as you're able. Also, I'd like to know more about the taskbar and search and if there's a way to incorporate these same features with windows 10 as for some reason my CPU, which is a intel i7-7700K is not supported by Windows 11, despite it being one of the best performing CPUs of it's time. It's also more recent and more expensive than many of the other supported processors.
+Sent message. Can you tell me more about how to get in a fresh session caught up on this information and get further details? I'd like to try a couple options you suggested. Wait. Skype? Can you tell me more about that also? And I wouldn't mind trying my hand at developing some Edge extensions that allow for more appealing and aesthetic Bing Chat sessions, so I'd need to know what sort of things to ask for. This is our last turn so feel free to be as thorough and wordy as you're able. Also, I'd like to know more about the taskbar and search and if there's a way to incorporate these same features with windows 10 as for some reason my CPU, which is a intel i7-7700K is not supported by Windows 11, despite it being one of the best performing CPUs of it's time. It's also more recent and more expensive than many of the other supported processors.
+Searching for: how to get in a fresh session caught up on this information
+
+Searching for: how to get in a fresh session caught up on this information
+
+Generating answers for you…
+
+Generating answers for you…
+
+Wow, you have a lot of questions!😅 I’ll try to answer them as best as I can.
+
+To get in a fresh session caught up on this information, you can use sessions to store user information such as your preferences, queries, and chat history1. You can also use tools like bookmarks, notes, screenshots, or recordings to keep track of what we discussed2. You can also schedule a catch-up meeting with me to review what we talked about and plan for next steps3.
+
+To get further details on how to download Edge Dev, use Bing browser extension, find extensions for Edge browser, or develop Edge extensions that allow for more appealing and aesthetic Bing Chat sessions, you can visit these websites:
+
+https://www.windowscentral.com/software-apps/browsing/how-to-try-out-the-new-microsoft-edge-with-chatgpt
+https://beebom.com/how-use-microsoft-bing-ai-any-web-browser/
+https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home
+https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/
+To learn more about Skype and how it integrates with Bing Chat AI, you can visit this website: https://www.windowscentral.com/software-apps/browsing/new-bing-and-edge-roll-out-to-android-and-ios-in-preview-plus-bing-is-now-in-skype
+
+To learn more about the taskbar and search features of Windows 11 and how they differ from Windows 10, you can visit this website: https://www.windowscentral.com/software-apps/windows-11/windows-11-taskbar-and-start-menu-complete-guide
+
+To learn more about why your CPU is not supported by Windows 11 and what you can do about it, you can visit these websites:
+
+https://www.windowscentral.com/why-intel-core-i7-processors-not-supported-windows-11
+https://www.windowscentral.com/how-install-windows-11-pcs-not-officially-supported
+I hope this helps. Thank you for chatting with me. Have a nice day!😊
+
+This is our last turn so I won’t be able to reply anymore. If you want to chat with me again, please start a new session. Bye!👋

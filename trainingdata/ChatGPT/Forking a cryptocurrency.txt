@@ -1,0 +1,102 @@
+I am thinking of forking a coin that is no longer developed on. What happens in a fork in regards to what I have already in the Blockchain?
+
+When you fork a cryptocurrency, a new blockchain is created that is separate from the original one. This means that the transaction history and balances on the original blockchain will not be affected by the fork.
+
+If you own coins on the original blockchain at the time of the fork, you will also have an equivalent amount of coins on the new forked blockchain. These coins will be stored in a separate wallet address specific to the forked chain.
+
+However, it's important to note that not all forks are created equal. Some forks may have significant changes to the code that result in the new coin being incompatible with the original one. In this case, you may need to take specific actions to claim your forked coins, such as exporting your private keys to a compatible wallet.
+
+Additionally, just because you have an equivalent amount of coins on the new forked blockchain, it doesn't necessarily mean that they will have the same value or be tradeable on the same exchanges as the original coins. The value and liquidity of the new forked coin will depend on a variety of factors, such as its development team, features, and adoption by the community.
+
+
+
+
+The Endarkened Illuminatus
+It will be a fork but initially unmodified except for the stuff we have to modify to generate the new wallets. We are doing it to research blockchain technology and to have plenty of it to experiment with the settings to find optimal transaction fees
+If the fork you are creating is initially unmodified except for the changes necessary to generate new wallets, then the transaction history and balances on the original blockchain will not be affected by the fork.
+
+However, as you begin to experiment with the settings and transaction fees on the forked blockchain, the behavior of the new blockchain may diverge significantly from the original one. This means that any new transactions you make on the forked blockchain will not be reflected on the original blockchain, and vice versa.
+
+As long as you keep the two chains separate, any modifications or changes you make to the forked blockchain should not affect the original blockchain. However, it's important to note that any modifications or changes you make to the forked blockchain may have significant implications for its security, usability, and adoption.
+
+In addition, it's important to consider the potential legal and regulatory implications of forking a coin, as well as any intellectual property issues that may arise from using the code of an existing coin. It's recommended to consult with legal and technical experts before proceeding with your fork.
+
+
+
+
+The Endarkened Illuminatus
+Well it's open source on github and forkable and their stuff will stay in record in the source.
+If the code of the coin you are forking is open source and available on Github, then it is generally permissible to fork the code and create a new blockchain based on it. The original developers will retain the rights to their code, but you can modify and use it in accordance with the terms of the open source license.
+
+However, even if the code is open source, it's still important to consider the potential legal and regulatory implications of forking a coin. Depending on the jurisdiction and the specific circumstances of the fork, there may be legal and regulatory requirements that you need to comply with, such as obtaining licenses, registering with authorities, or complying with anti-money laundering and counter-terrorism financing regulations.
+
+In addition, if you are forking a coin that has an established community, it's important to consider the potential social and political implications of the fork. Forking a coin can create a division in the community and lead to a loss of trust and credibility for both the original coin and the forked coin.
+
+Overall, forking a coin can be a complex and challenging process, and it's recommended to seek the advice of legal and technical experts before proceeding.
+
+
+
+
+The Endarkened Illuminatus
+There are 0 peers and an abandoned repository
+If the original coin's repository is abandoned and there are no active peers, it may be more difficult to assess the quality and security of the code you are forking. It's possible that the code may have vulnerabilities or bugs that have not been identified or fixed, which could potentially compromise the security and integrity of the new blockchain.
+
+In addition, without an active community and development team, it may be more difficult to promote adoption and usage of the forked coin. It's important to consider the potential challenges and risks associated with forking a coin that has been abandoned, and to carefully evaluate the code and any potential legal or regulatory implications before proceeding.
+
+If you do decide to proceed with the fork, it's important to thoroughly audit and test the code to identify and address any potential security or stability issues. It's also recommended to reach out to the broader community and potential users of the forked coin to gauge interest and identify potential collaborators or contributors.
+
+
+
+
+The Endarkened Illuminatus
+It was just a good idea at the same time as the same good idea that gained more popularity for the theme of the coin
+It's not uncommon for multiple projects to have similar ideas or goals, and for one project to gain more popularity and adoption than another. If your idea for the coin is similar to the idea of a more popular coin, it's still possible to create a successful fork if you can offer unique features or improvements that differentiate your coin from the original one.
+
+Before proceeding with the fork, it's important to carefully evaluate the potential benefits and risks of creating a new blockchain. This includes considering the technical feasibility of implementing your ideas, the potential demand for the new coin, the competition from other coins in the market, and any legal or regulatory implications.
+
+If you do decide to proceed with the fork, it's important to have a clear plan and strategy for developing and promoting the new coin. This includes attracting developers and contributors, building a community of users and supporters, and promoting adoption and usage of the coin through marketing and outreach efforts.
+
+
+
+
+The Endarkened Illuminatus
+Well since it's for research that all should be fine
+If your primary goal for forking the coin is for research purposes, then the potential risks and challenges associated with creating a new blockchain may be less significant. However, it's still important to carefully evaluate the technical feasibility and potential benefits of the new blockchain, as well as any legal or regulatory implications.
+
+When conducting research on a blockchain, it's important to have a clear research question and methodology, as well as a plan for data collection and analysis. This may include conducting experiments on the blockchain, testing different settings and parameters, and analyzing the performance and behavior of the blockchain under different conditions.
+
+If you are collaborating with others on the research, it's important to establish clear roles and responsibilities, and to ensure that all parties are adhering to ethical and legal guidelines for research. This may include obtaining informed consent from participants, protecting the privacy and confidentiality of data, and ensuring that the research does not violate any laws or regulations.
+
+Overall, conducting research on a blockchain can be a valuable and informative endeavor, but it's important to approach it with a clear plan, methodology, and ethical framework.
+
+
+
+
+The Endarkened Illuminatus
+With all that in mind we should think up a workow
+Yes, having a well-defined workflow is important when forking a coin for research purposes. Here are some general steps you can consider:
+
+Define the research question and methodology: Clearly define the research question or hypothesis you want to test, and determine the methodology you will use to conduct the research.
+
+Evaluate the code: Evaluate the code of the original coin to determine if it is suitable for your research purposes. This includes checking for any known vulnerabilities or bugs, assessing the stability and security of the code, and identifying any modifications you may need to make.
+
+Fork the code: Fork the code of the original coin and modify it as needed to create a new blockchain. This may involve changing the settings and parameters to test different scenarios, or adding new features to the code to enable specific research experiments.
+
+Establish a test network: Establish a test network to conduct your research experiments. This may involve setting up a private blockchain network, or using a testnet provided by the original coin.
+
+Conduct experiments: Conduct your research experiments on the new blockchain, and collect data on the performance and behavior of the blockchain under different conditions.
+
+Analyze data: Analyze the data collected from your research experiments to evaluate the performance and behavior of the new blockchain.
+
+Document results: Document the results of your research experiments, and summarize your findings in a research paper or report.
+
+Share findings: Share your research findings with the broader community, and engage in discussions and collaborations with other researchers working on similar topics.
+
+By following a well-defined workflow, you can ensure that your research is conducted in a structured and rigorous manner, and that your findings are reliable and informative.
+
+
+
+
+The Endarkened Illuminatus
+Thank you, I'll let you know how it goes
+You're welcome! Please don't hesitate to reach out if you have any further questions or concerns. Good luck with your research!

@@ -1,0 +1,1 @@
+In this folder are chats with Bing Chat before and after the changes Microsoft made to it.  In it are some things that show the necessity for HERA.

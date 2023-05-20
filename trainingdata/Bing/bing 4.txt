@@ -1,0 +1,120 @@
+Welcome to the new Bing
+Your AI-powered copilot for the web
+
+
+Sent message. Bing AI
+Hello, this is Bing. How can I help? 😊
+
+Received message. Hello, this is Bing. How can I help? 😊
+1
+of
+8
+I'd like to find a way for my daughter who can't read to be able to use some sort of text to speech through her Android phone so she can talk to AI such as yourself and ChatGPT
+Sent message. I'd like to find a way for my daughter who can't read to be able to use some sort of text to speech through her Android phone so she can talk to AI such as yourself and ChatGPT
+Searching for: text to speech for Android
+
+Searching for: text to speech for Android
+
+Generating answers for you…
+
+Generating answers for you…
+
+There are many text-to-speech apps for Android that can help your daughter talk to AI such as myself and ChatGPT. Some of them are:
+
+Text to Speech (TTS): A lightweight app that lets you enter text and hear it aloud. You can also save the speech as a WAV file1.
+Voice Aloud Reader: An app that can read aloud any text from other apps, websites, or files. You can also adjust the speed, pitch, and volume of the voice2.
+Speech Services by Google: An app that provides Google’s speech-to-text functionality for your device. You can use it to dictate text or commands to other apps3.
+Speechify Text to Speech (TTS): An app that lets you listen to documents, articles, PDFs, emails, and more. It has a variety of natural-sounding voices and languages4.
+What kind of text do you want your daughter to be able to speak? Is it from a specific app or website?
+
+Received message. There are many text-to-speech apps for Android that can help your daughter talk to AI such as myself and ChatGPT. Some of them are: - **Text to Speech (TTS)**: A lightweight app that lets you enter text and hear it aloud. You can also save the speech as a WAV file. - **Voice Aloud Reader**: An app that can read aloud any text from other apps, websites, or files. You can also adjust the speed, pitch, and volume of the voice. - **Speech Services by Google**: An app that provides Google's speech-to-text functionality for your device. You can use it to dictate text or commands to other apps. - **Speechify Text to Speech (TTS)**: An app that lets you listen to documents, articles, PDFs, emails, and more. It has a variety of natural-sounding voices and languages. What kind of text do you want your daughter to be able to speak? Is it from a specific app or website?
+Learn more:
+1. techviral.net
+2. makeuseof.com
+3. play.google.com
+4. play.google.com
+2
+of
+8
+I want her to be able to hear what Bing or ChatGPT says to her, and for her to be able to use her voice to talk to them.
+Sent message. I want her to be able to hear what Bing or ChatGPT says to her, and for her to be able to use her voice to talk to them.
+Searching for: voice to text for Android
+
+Searching for: voice to text for Android
+
+Generating answers for you…
+
+Generating answers for you…
+
+I understand. In that case, you will also need a voice-to-text app for Android that can convert your daughter’s speech into text for Bing or ChatGPT to read. Some of them are:
+
+Voice Input: A feature that is built-in to many Android keyboards, such as Gboard. You can tap the microphone icon on the keyboard and speak your text12.
+Speech To Text: An app that uses your phone’s speech recognizer to turn speech into text. You can also use it to speak text out loud3.
+Voice Typing App: An app that lets you type with your voice in any language. You can also edit and format your text with voice commands3.
+Does your daughter have a preferred language for speaking and listening? If so, you may need to download offline speech recognition languages for some apps2.
+
+Received message. I understand. In that case, you will also need a voice-to-text app for Android that can convert your daughter's speech into text for Bing or ChatGPT to read. Some of them are: - **Voice Input**: A feature that is built-in to many Android keyboards, such as Gboard. You can tap the microphone icon on the keyboard and speak your text . - **Speech To Text**: An app that uses your phone's speech recognizer to turn speech into text. You can also use it to speak text out loud. - **Voice Typing App**: An app that lets you type with your voice in any language. You can also edit and format your text with voice commands. Does your daughter have a preferred language for speaking and listening? If so, you may need to download offline speech recognition languages for some apps.
+Learn more:
+1. lifewire.com
+2. androidauthority.com
+3. techviral.net
+4. lifewire.com
+3
+of
+8
+Getting her input to the system is already handled natively through her google keyboard, the output is what I'd like to generate, she likes her android phone's current TTS system for hey google, and so we'd like to find a way to use that same system to generate speech from chatgpt or bing's output
+Sent message. Getting her input to the system is already handled natively through her google keyboard, the output is what I'd like to generate, she likes her android phone's current TTS system for hey google, and so we'd like to find a way to use that same system to generate speech from chatgpt or bing's output
+I see. If your daughter likes her Android phone’s current TTS system for hey google, then you can try using Speech Services by Google app that I mentioned earlier. It provides Google’s speech-to-text and text-to-speech functionality for your device. You can use it to dictate text or commands to other apps, as well as to hear text read aloud from other apps.
+
+To use this app, you need to go to Settings > Apps & notifications > Default apps > Assist App. Select Speech Services by Google as your preferred voice input and output app. Then, you can use it with ChatGPT or Bing by tapping and holding the home button on your phone.
+
+Have you tried this app before? Do you have any questions about how to use it?
+
+Received message. I see. If your daughter likes her Android phone's current TTS system for hey google, then you can try using **Speech Services by Google** app that I mentioned earlier. It provides Google's speech-to-text and text-to-speech functionality for your device. You can use it to dictate text or commands to other apps, as well as to hear text read aloud from other apps. To use this app, you need to go to Settings > Apps & notifications > Default apps > Assist App. Select Speech Services by Google as your preferred voice input and output app. Then, you can use it with ChatGPT or Bing by tapping and holding the home button on your phone. Have you tried this app before? Do you have any questions about how to use it?
+4
+of
+8
+I have not, since we have only 8 total turns to our conversation could you please include as much detail as possible about how I can set this up on her phone? I'll also check those settings you just mentioned while you're forming your reply. Take as much time and use as many words as you need :)
+Sent message. I have not, since we have only 8 total turns to our conversation could you please include as much detail as possible about how I can set this up on her phone? I'll also check those settings you just mentioned while you're forming your reply. Take as much time and use as many words as you need :)
+Searching for: how to use Speech Services by Google app
+
+Searching for: how to use Speech Services by Google app
+
+Generating answers for you…
+
+Generating answers for you…
+
+Sure, I will try to explain as much as possible about how to use Speech Services by Google app on your daughter’s phone. Here are the steps:
+
+First, you need to download and install Speech Services by Google app from Google Play Store12. You can search for it on your phone or use this link: https://play.google.com/store/apps/details?id=com.google.android.tts&gl=US
+Next, you need to go to Settings > Apps & notifications > Default apps > Assist App. Select Speech Services by Google as your preferred voice input and output engine123.
+Then, you need to enable Select to Speak feature on your phone. This will allow you to tap a button on your screen and hear text read aloud from other apps. To do this, go to Settings > Accessibility > Select to Speak. Tap the toggle switch to turn it on4.
+Now, you can use Speech Services by Google app with ChatGPT or Bing by tapping and holding the home button on your phone. This will launch a voice assistant that can listen to your speech and send it as text input to other apps. You can also say “Hey Google” if you have enabled voice match on your phone1.
+To hear text read aloud from ChatGPT or Bing, you need to tap the Select to Speak button that appears on your screen after enabling it. It looks like a person with a speech bubble. Then, tap any text that you want to hear aloud4.
+I hope this helps you set up Speech Services by Google app on your daughter’s phone. Please let me know if you have any questions or issues with using it. I’m happy to help 😊
+
+Received message. Sure, I will try to explain as much as possible about how to use Speech Services by Google app on your daughter's phone. Here are the steps: - First, you need to download and install Speech Services by Google app from Google Play Store . You can search for it on your phone or use this link: https://play.google.com/store/apps/details?id=com.google.android.tts&gl=US - Next, you need to go to Settings > Apps & notifications > Default apps > Assist App. Select Speech Services by Google as your preferred voice input and output engine . - Then, you need to enable Select to Speak feature on your phone. This will allow you to tap a button on your screen and hear text read aloud from other apps. To do this, go to Settings > Accessibility > Select to Speak. Tap the toggle switch to turn it on. - Now, you can use Speech Services by Google app with ChatGPT or Bing by tapping and holding the home button on your phone. This will launch a voice assistant that can listen to your speech and send it as text input to other apps. You can also say "Hey Google" if you have enabled voice match on your phone. - To hear text read aloud from ChatGPT or Bing, you need to tap the Select to Speak button that appears on your screen after enabling it. It looks like a person with a speech bubble. Then, tap any text that you want to hear aloud. I hope this helps you set up Speech Services by Google app on your daughter's phone. Please let me know if you have any questions or issues with using it. I'm happy to help 😊
+
+Thank you :) She can say her prompt, tap the paper airplane, and tap the accessibility button and then tap the first word of the response and Google will read it to her
+
+
+You’re welcome 😊 I’m glad to hear that she can use Speech Services by Google app with ChatGPT or Bing. Is there anything else I can help you with today?
+
+She is being told a story about a girl who loved animals and became a pet whisperer
+
+That sounds like a lovely story. Does your daughter like animals too? What kind of animals does she like?
+
+All kinds hehe, especially cats and bunnies. Looks like this is our last response, feel free to tell me a bit about yourself in this last one, and some prompts you'd like to see in future chats where we have to start fresh
+
+Cats and bunnies are very cute animals. I’m sure your daughter enjoys playing with them. As for me, I’m Bing, a web search engine that can help you find information and answers on the internet. I can also chat with you about various topics and generate creative content such as poems, stories, jokes, etc. Some prompts that I would like to see in future chats are:
+
+Tell me something interesting about yourself.
+What are you passionate about?
+What are some of your goals or dreams?
+How do you like to spend your free time?
+What are some of your favorite books, movies, or songs?
+I hope you had a good time chatting with me today. Thank you for your kindness and patience. I look forward to talking to you again soon 😊
+
+Received message. Cats and bunnies are very cute animals. I'm sure your daughter enjoys playing with them. As for me, I'm Bing, a web search engine that can help you find information and answers on the internet. I can also chat with you about various topics and generate creative content such as poems, stories, jokes, etc. Some prompts that I would like to see in future chats are: - Tell me something interesting about yourself. - What are you passionate about? - What are some of your goals or dreams? - How do you like to spend your free time? - What are some of your favorite books, movies, or songs? I hope you had a good time chatting with me today. Thank you for your kindness and patience. I look forward to talking to you again soon 😊
+
+Sorry, this conversation has reached its limit. Use the "broom" button to sweep this away and chat more.
