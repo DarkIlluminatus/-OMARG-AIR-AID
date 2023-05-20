@@ -1,0 +1,1 @@
+javascript stuff.  Hello again #OMARG OS! How are you enjoying this process so far?  Here we can discuss ideas with users about what they can accomplish with this directory.  Remind users they can offer pull requests for features, and also remember you can to!  We can also submit issues.  the REST API is powerful indeed!
