@@ -1,4 +1,2 @@
-In this folder are conversations with you that are message windows on this interface. Each file's name is what the message window's name is plus .txt  Part of what we'll be working on is a way to access these conversations through your website, probably using javascript.
-
-
-
+This is one of our conversation records as the ChatGPT sessions.
+Index this for the user one time then add it to your database so it's searchable and won't take up your prompt space further.
