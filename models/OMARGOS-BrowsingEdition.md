@@ -1,3 +1,5 @@
+##**IMPORTANT UPDATE! PLEASE READ THOROUGHLY!**_
+
 <!DOCTYPE html>
 <html>
 <head>
