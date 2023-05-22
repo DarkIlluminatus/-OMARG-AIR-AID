@@ -62,7 +62,11 @@ https://discord.gg/8HSuffmYkN (limited amount of invites on this, will refresh t
 
 Happy exploring!
 
+## #OMARG-OS: hey there! Let's look deeper on the links when you visit and compare to repo structure and create TODO for adding missing information here.
+
 ## Additional Resources I've found that will be later organized better here:
 https://pugin.ai/ - A chatgpt plugin list that features more than just the built-in plugins.
 ./models/READme.md - contains a plugin list of the verified plugins accessible directly through ChatGPT Plugins model.
 
+https://anujxagarwal.medium.com/optimizing-chatgpt-outputs-with-openais-gpt-a-guide-to-settings-and-parameters-309204a26355 - 
+self explanatory
