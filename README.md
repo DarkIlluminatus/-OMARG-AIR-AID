@@ -53,6 +53,8 @@ If you're new to GitHub, don't worry! Here's a step-by-step guide to help you na
 
 - `json/`: Directory containing .json versions of the GPT model prompts for use with AI-related plugins.
 
+- `trainingdata/`: This folder holds user repo specific training data for their models. Remember to add a .git_ignore for all files in this folder unless you inted for your data to be used to help improve the model, and make sure you sanitize your data before storing it in your forks.
+
 ## Contributing
 
 We welcome contributions to OMARGAIR/AID! If you have a model prompt you'd like to add, please [create a new issue](link-to-create-new-issue) describing your contribution.
