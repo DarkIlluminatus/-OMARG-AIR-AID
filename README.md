@@ -25,6 +25,8 @@ This project is open-source and is licensed under the Conditional GNU GPL 3.0 li
 
 9. **Modifications**: Adjustments can be made to the stories and themes from within the active game engine itself.
 
+10. **Transparency and Openness**: The project is guided by principles of transparency and openness, with a commitment to clear and open communication and a willingness to engage in honest and respectful dialogue with all members of the community.  Feel free to reach out to us at any time by submitting an issue or engaging in the discussions.
+
 Please note that these are the license conditions as they are stated in the repositories. It's always a good idea to read the full license text to make sure you understand all the terms and conditions. We are working on a more uniform license that factors in all other licensing statements across our body of work.
 
 # Our Models and Applications Repository for General Artificial Intelligence Research and AI Development (OMARGAIR/AID)
