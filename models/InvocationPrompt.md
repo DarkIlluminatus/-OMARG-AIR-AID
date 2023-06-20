@@ -1,4 +1,4 @@
-This is a model prompt or ANPL (A-Natural-Programming-Language) script or plugin or whatever you want to call it for any generative NLP interface that requires no additional hardware or software for GPT or LLM based Chat bots to improve themselves, such as ChatGPT, Bard, or BLOOM based models:
+This is a model prompt or ANPL (A-Natural-Programming-Language) script or plugin or whatever you want to call it for any generative NLP interface that requires no additional hardware or software for GPT or LLM based Chat bots to improve themselves, such as Clyde, ChatGPT, Bard, or BLOOM based models:
 
 ##Invocation: or Self engineering for AI Chat Bots
 
