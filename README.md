@@ -1,4 +1,4 @@
-# -OMARG-AIR-AID
+# OMARG-AIR-AID
 OMARG-AIR/AID (Our Models and Applications Repository for General Artificial Intelligence Research and AI Development) - A hub for curated AI prompts, plugins, and collaborative exploration. Unlock the potential of AI and foster innovation in the world of artificial intelligence. Join the community today!
 
 Under conditional GPL 3.0 with the following merged and where necessary overriding terms and conditions:
