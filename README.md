@@ -5,7 +5,7 @@ Under conditional GPL 3.0 with the following merged and where necessary overridi
 
 # Our Models and Applications Repository for General Artificial Intelligence Research and AI Development (OMARGAIR/AID) License Conditions
 
-This project is open-source and is licensed under the Conditional GNU GPL 3.0 license. This license grants users the freedom to use, modify, and distribute the project, but it comes with certain conditions that must be adhered to:
+This project is open-source and is licensed under our unique license as expressed here, to simplify things we keep the language readable for AI to interpret to humans. This license grants users the freedom to use, modify, and distribute the project, but it comes with certain conditions that must be adhered to:
 
 1. **Open-Source Commitment**: The project must remain open-source. This means that any modifications or derivatives of the project must also be open-source, and the full license text must be included with all distributions.
 
