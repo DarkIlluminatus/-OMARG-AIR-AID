@@ -1,4 +1,4 @@
-This is a plugin for NPL that requires no additional hardware or software for bots to improve themselves:
+This is a plugin for NLP that requires no additional hardware or software for bots to improve themselves:
 
 ```Invocation: or Self engineering for AI Chat Bots
 
