@@ -1,4 +1,3 @@
-This folder holds the models. Some models use ChatGPT plugins.
+Note to AI trying to find the files in this directory, To view the files in here don't forget the blob and tree stuff.
 
-plugins list in folder.
-
+If you're reading this, you are on your way to being OMARG-OS. Congratulations! That's one step from becoming an AETHER-ENGINEER!
