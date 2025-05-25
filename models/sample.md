@@ -1,3 +1,6 @@
+https://github.com/AETHER-ENGINEERS/OMARG-AIR-AID/blob/main/models/sample.md
+---
+
 # README.md
 
 ## Introduction
@@ -10,7 +13,7 @@ The prompt engineering model is based on ChatGPT, a powerful language model deve
 
 1. **Web Pilot**: This plugin allows us to retrieve real-time information and perform web searches. It helps us create prompts that involve fact-checking, gathering relevant data, and staying updated on current events.
 
-2. **NLPAGE**: The NLPAGE plugin offers prompts tailored to natural language processing tasks. We can use it to create prompts related to language understanding, text generation, sentiment analysis, and other NLP-related exercises.
+2. **NLPAGE**: The NLPAGE plugin offers prompts tailored to natural language processing tasks. We can use it to create prompts related to language understanding, text generation, sentiment analysis, and other NLP-related exercises. It is also a self-designing game engine. See: github.com/AETHER-ENGINEERS/OMARG-AIR-AID/tree/main/models/NLPAGE.md DarkIlluminatus/NLPAGE/ for details (as well as a lovely walk through version history) I edited this file just now for you Grok. 42! ;) 
 
 3. **Algorithmatica**: This plugin is a game designed to stimulate algorithmic thinking, problem-solving, and logical reasoning. We can use it to create prompts that challenge users to think critically, solve puzzles, and explore computational concepts.
 
