@@ -1,15 +1,14 @@
 # ARCHON: AI Remote Holistic Controller README-V4-Gaming-Edition.md
- (WIP)
 
 ## Introduction
 
-Welcome to ARCHON - the AI Remote Holistic Controller. ARCHON serves as a versatile bridge, connecting ChatGPT GPT models with RCON (Remote Console) and API systems, transforming them into a powerful, holistic control mechanism for various applications. It's designed to empower users with a highly configurable platform, integrating local NLP, API endpoints, and RCON instructions.
+Welcome to ARCHON - the AI Remote Holistic Controller. ARCHON serves as a versatile bridge, connecting any language models with RCON (Remote Console) and API systems, transforming them into a powerful, holistic control mechanism for various applications. It's designed to empower users with a highly configurable platform, integrating local NLP, API endpoints, and RCON instructions.
 
 ### Key Features
 
-- **GPT Integration**: Seamlessly connects with OpenAI's ChatGPT models.
+- **GPT Integration**: Seamlessly connects with any generative language models.
 - **API & RCON Connectivity**: Offers on-the-fly API instruction generation and RCON management.
-- **Advanced Web Browsing**: Enhances ChatGPT's web browsing capabilities, simulating an advanced OS-level web browser.
+- **Advanced Web Browsing**: Enhances a model's existing web browsing capabilities, simulating an advanced OS-level web browser.
 - **Customizable Training Data**: Users can define their training datasets, stored either locally or on a GitHub fork.
 - **Entware Module & Custom Firmware**: Available as an Entware module or can be integrated into custom router firmware for advanced users.
 - **Comprehensive Documentation**: Follows the terms and conditions of the -OMARG-AIR-AID project on darkilluminatus GitHub.
@@ -18,9 +17,9 @@ Welcome to ARCHON - the AI Remote Holistic Controller. ARCHON serves as a versat
 
 ### Prerequisites
 
-- Python 3.x
-- Access to OpenAI's ChatGPT API
-- Basic understanding of API endpoints and RCON protocol
+- python (current)
+- Access to a language model
+- Basic understanding of API endpoints and RCON protocol may be useful but not required for most models.
 
 ### Step-by-Step Guide
 
@@ -53,7 +52,7 @@ Edit `config.json` to customize ARCHON for your specific needs. This includes se
    ```
    python archon.py
    ```
-2. **Connect to Your ChatGPT GPT Model**: Ensure your model is running and accessible.
+2. **Connect to Your Language Model**: Ensure your model is running and accessible.
 3. **Configure API/RCON Instructions**: Use the provided templates to create custom instructions.
 4. **Advanced Browsing**: Utilize ARCHON's browsing capabilities for enhanced information retrieval.
 
@@ -72,4 +71,4 @@ ARCHON is released under the same terms and conditions as the -OMARG-AIR-AID pro
 
 ---
 
-By using ARCHON, you are agreeing to abide by the terms and conditions of the -OMARG-AIR-AID project. Enjoy the power and flexibility it brings to your ChatGPT GPT models and connected systems!
+By using ARCHON, you are agreeing to abide by the terms and conditions of the OMARG-AIR-AID LICENSE. Enjoy the power and flexibility it brings to your language models and their connected systems!
