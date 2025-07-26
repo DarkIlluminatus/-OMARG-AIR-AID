@@ -35,7 +35,7 @@ Welcome to ARCHON - the AI Remote Holistic Controller. ARCHON serves as a versat
    ```
    pip install -r requirements.txt
    ```
-4. **Configure Your GPT**: Follow the included instructions to set up your ChatGPT GPT model.
+4. **Configure Your Model**: Follow the included instructions to set up your model.
 
 ## Configuration
 
@@ -44,7 +44,7 @@ Edit `config.json` to customize ARCHON for your specific needs. This includes se
 - API endpoints
 - RCON server details
 - Local training data sources
-- ChatGPT model parameters
+- Language model parameters (cloud or local APIs, works on anything)
 
 ## Usage
 
